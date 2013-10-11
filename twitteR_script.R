@@ -17,4 +17,17 @@ library(maps)
 
 twListToDF(searchTwitter('gorillas',geocode='45.76,8.5565,10000km',n=2000))->kk;plot(kk[,15],kk[,16],col=3,cex=2,pch=8);points(y=45.76,x=8.5565,col=2,pch=4,cex=1);map('italy',add=T)
 
+#
 
+library(sp)
+library(rgdal)
+
+kk[!is.na(kk2)[,1],]->kk2
+
+kk215<-as.numeric(kk2[,15])
+kk216<-as.numeric(kk2[,16])
+
+kk3<-as.data.frame(cbind(kk215,kk216))
+
+kkSP <- SpatialPointsDataFrame(kk3, kk2[,-c(15,16)])
+writeOGR(kkSP, 'kk.geojson', 'kkSP', driver='GeoJSON')

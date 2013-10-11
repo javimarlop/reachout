@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "id": 20, "properties": { "text": "YOU AND ME BABY MAKING LOVE LIKE GORILLAS #HooligansAreVeryEagerForGorillasVideo", "favorited": 0, "favoriteCount": 0.000000, "replyToSN": "", "created": "2013-10-10 21:00:22", "truncated": 0, "replyToSID": "", "id": "388408688123576320", "replyToUID": "", "statusSource": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>", "screenName": "xbrunoshair", "retweetCount": 0.000000, "isRetweet": 0, "retweeted": 0 }, "geometry": { "type": "Point", "coordinates": [ 10.221412, 45.273380 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "text": "YOU AND ME BABY MAKING LOVE LIKE GORILLAS ", "favorited": 0, "favoriteCount": 0.000000, "replyToSN": "", "created": "2013-10-09 22:46:59", "truncated": 0, "replyToSID": "", "id": "388073131317145600", "replyToUID": "", "statusSource": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>", "screenName": "Sophwatto", "retweetCount": 0.000000, "isRetweet": 0, "retweeted": 0 }, "geometry": { "type": "Point", "coordinates": [ 0.099449, 51.660203 ] } }
+,
+{ "type": "Feature", "id": 114, "properties": { "text": "You and me baby making love like gorillas.", "favorited": 0, "favoriteCount": 0.000000, "replyToSN": "", "created": "2013-10-06 19:25:48", "truncated": 0, "replyToSID": "", "id": "386935339409211392", "replyToUID": "", "statusSource": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>", "screenName": "Brunorgasmic", "retweetCount": 0.000000, "isRetweet": 0, "retweeted": 0 }, "geometry": { "type": "Point", "coordinates": [ 4.888043, 45.317779 ] } }
+,
+{ "type": "Feature", "id": 199, "properties": { "text": "@breakwriter The gorillas will take a lot of beating. I became very attached to them.", "favorited": 0, "favoriteCount": 0.000000, "replyToSN": "breakwriter", "created": "2013-10-04 17:14:27", "truncated": 0, "replyToSID": "386149413615185920", "id": "386177509454544896", "replyToUID": "204728139", "statusSource": "<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>", "screenName": "lovelylady_53", "retweetCount": 1.000000, "isRetweet": 0, "retweeted": 0 }, "geometry": { "type": "Point", "coordinates": [ 1.291943, 52.620624 ] } }
+
+]
+}

@@ -1,0 +1,651 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "N_Estacion": 1, "Estacion": "Castro de Rei", "N_Provincia": 27, "Provincia": "Lugo", "Comunidad": "Galicia", "Altitud": 428 }, "geometry": { "type": "Point", "coordinates": [ -7.484354, 43.157886 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "N_Estacion": 2, "Estacion": "Momforte de Lemos", "N_Provincia": 27, "Provincia": "Lugo", "Comunidad": "Galicia", "Altitud": 645 }, "geometry": { "type": "Point", "coordinates": [ -7.500271, 42.475146 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "N_Estacion": 1, "Estacion": "A Capela", "N_Provincia": 15, "Provincia": "A Coruña", "Comunidad": "Galicia", "Altitud": 372 }, "geometry": { "type": "Point", "coordinates": [ -8.069491, 43.439996 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "N_Estacion": 2, "Estacion": "Boimorto", "N_Provincia": 15, "Provincia": "A Coruña", "Comunidad": "Galicia", "Altitud": 480 }, "geometry": { "type": "Point", "coordinates": [ -8.127009, 43.007992 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "N_Estacion": 6, "Estacion": "Alcaudete", "N_Provincia": 23, "Provincia": "Jaén", "Comunidad": "Andalucia", "Altitud": 645 }, "geometry": { "type": "Point", "coordinates": [ -4.077317, 37.579123 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "N_Estacion": 11, "Estacion": "Chiclana de Segura", "N_Provincia": 23, "Provincia": "Jaén", "Comunidad": "Andalucia", "Altitud": 510 }, "geometry": { "type": "Point", "coordinates": [ -2.954216, 38.304754 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "N_Estacion": 1, "Estacion": "Huesa", "N_Provincia": 23, "Provincia": "Jaén", "Comunidad": "Andalucia", "Altitud": 793 }, "geometry": { "type": "Point", "coordinates": [ -3.060480, 37.749240 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "N_Estacion": 15, "Estacion": "Jaén", "N_Provincia": 23, "Provincia": "Jaén", "Comunidad": "Andalucia", "Altitud": 299 }, "geometry": { "type": "Point", "coordinates": [ -3.770136, 37.892434 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "N_Estacion": 103, "Estacion": "Jódar", "N_Provincia": 23, "Provincia": "Jaén", "Comunidad": "Andalucia", "Altitud": 488 }, "geometry": { "type": "Point", "coordinates": [ -3.333001, 37.880512 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "N_Estacion": 12, "Estacion": "La Higuera de Arjona", "N_Provincia": 23, "Provincia": "Jaén", "Comunidad": "Andalucia", "Altitud": 267 }, "geometry": { "type": "Point", "coordinates": [ -4.006679, 37.950709 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "N_Estacion": 9, "Estacion": "Linares", "N_Provincia": 23, "Provincia": "Jaén", "Comunidad": "Andalucia", "Altitud": 443 }, "geometry": { "type": "Point", "coordinates": [ -3.648490, 38.060715 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "N_Estacion": 7, "Estacion": "Mancha Real", "N_Provincia": 23, "Provincia": "Jaén", "Comunidad": "Andalucia", "Altitud": 436 }, "geometry": { "type": "Point", "coordinates": [ -3.595187, 37.918261 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "N_Estacion": 10, "Estacion": "Marmolejo", "N_Provincia": 23, "Provincia": "Jaén", "Comunidad": "Andalucia", "Altitud": 208 }, "geometry": { "type": "Point", "coordinates": [ -4.129598, 38.058049 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "N_Estacion": 2, "Estacion": "Pozo Alcón", "N_Provincia": 23, "Provincia": "Jaén", "Comunidad": "Andalucia", "Altitud": 893 }, "geometry": { "type": "Point", "coordinates": [ -2.928933, 37.673811 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "N_Estacion": 4, "Estacion": "Sabiote", "N_Provincia": 23, "Provincia": "Jaén", "Comunidad": "Andalucia", "Altitud": 822 }, "geometry": { "type": "Point", "coordinates": [ -3.234423, 38.081386 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "N_Estacion": 3, "Estacion": "San José de los Propios", "N_Provincia": 23, "Provincia": "Jaén", "Comunidad": "Andalucia", "Altitud": 509 }, "geometry": { "type": "Point", "coordinates": [ -3.229240, 37.859697 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "N_Estacion": 14, "Estacion": "Santo Tomé", "N_Provincia": 23, "Provincia": "Jaén", "Comunidad": "Andalucia", "Altitud": 571 }, "geometry": { "type": "Point", "coordinates": [ -3.081734, 38.031156 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "N_Estacion": 5, "Estacion": "Torreblascopedro", "N_Provincia": 23, "Provincia": "Jaén", "Comunidad": "Andalucia", "Altitud": 291 }, "geometry": { "type": "Point", "coordinates": [ -3.688289, 37.990613 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "N_Estacion": 101, "Estacion": "Torreperogil", "N_Provincia": 23, "Provincia": "Jaén", "Comunidad": "Andalucia", "Altitud": 536 }, "geometry": { "type": "Point", "coordinates": [ -3.242708, 37.976235 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "N_Estacion": 8, "Estacion": "Ubeda", "N_Provincia": 23, "Provincia": "Jaén", "Comunidad": "Andalucia", "Altitud": 358 }, "geometry": { "type": "Point", "coordinates": [ -3.299397, 37.944730 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "N_Estacion": 102, "Estacion": "Villacarrillo", "N_Provincia": 23, "Provincia": "Jaén", "Comunidad": "Andalucia", "Altitud": 650 }, "geometry": { "type": "Point", "coordinates": [ -3.199283, 38.065300 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "N_Estacion": 10, "Estacion": "Adra", "N_Provincia": 4, "Provincia": "Almería", "Comunidad": "Andalucia", "Altitud": 42 }, "geometry": { "type": "Point", "coordinates": [ -2.992046, 36.748543 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "N_Estacion": 2, "Estacion": "Almería", "N_Provincia": 4, "Provincia": "Almería", "Comunidad": "Andalucia", "Altitud": 22 }, "geometry": { "type": "Point", "coordinates": [ -2.401859, 36.836906 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "N_Estacion": 5, "Estacion": "Fiñana", "N_Provincia": 4, "Provincia": "Almería", "Comunidad": "Andalucia", "Altitud": 971 }, "geometry": { "type": "Point", "coordinates": [ -2.837619, 37.158420 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "N_Estacion": 1, "Estacion": "La Mojonera", "N_Provincia": 4, "Provincia": "Almería", "Comunidad": "Andalucia", "Altitud": 142 }, "geometry": { "type": "Point", "coordinates": [ -2.703299, 36.789262 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "N_Estacion": 11, "Estacion": "Níjar", "N_Provincia": 4, "Provincia": "Almería", "Comunidad": "Andalucia", "Altitud": 182 }, "geometry": { "type": "Point", "coordinates": [ -2.156588, 36.952371 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "N_Estacion": 4, "Estacion": "Tabernas", "N_Provincia": 4, "Provincia": "Almería", "Comunidad": "Andalucia", "Altitud": 435 }, "geometry": { "type": "Point", "coordinates": [ -2.301266, 37.093283 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "N_Estacion": 12, "Estacion": "Tíjola", "N_Provincia": 4, "Provincia": "Almería", "Comunidad": "Andalucia", "Altitud": 796 }, "geometry": { "type": "Point", "coordinates": [ -2.458462, 37.380370 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "N_Estacion": 6, "Estacion": "Virgen de Fátima-Cuevas de Almanzora", "N_Provincia": 4, "Provincia": "Almería", "Comunidad": "Andalucia", "Altitud": 185 }, "geometry": { "type": "Point", "coordinates": [ -1.769196, 37.391006 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "N_Estacion": 2, "Estacion": "Adamuz", "N_Provincia": 14, "Provincia": "Córdoba", "Comunidad": "Andalucia", "Altitud": 90 }, "geometry": { "type": "Point", "coordinates": [ -4.443969, 37.999354 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "N_Estacion": 8, "Estacion": "Baena", "N_Provincia": 14, "Provincia": "Córdoba", "Comunidad": "Andalucia", "Altitud": 334 }, "geometry": { "type": "Point", "coordinates": [ -4.304940, 37.693507 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "N_Estacion": 1, "Estacion": "Bélmez", "N_Provincia": 14, "Provincia": "Córdoba", "Comunidad": "Andalucia", "Altitud": 523 }, "geometry": { "type": "Point", "coordinates": [ -5.208690, 38.255754 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "N_Estacion": 6, "Estacion": "Córdoba", "N_Provincia": 14, "Provincia": "Córdoba", "Comunidad": "Andalucia", "Altitud": 117 }, "geometry": { "type": "Point", "coordinates": [ -4.800246, 37.862486 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "N_Estacion": 5, "Estacion": "El Carpio", "N_Provincia": 14, "Provincia": "Córdoba", "Comunidad": "Andalucia", "Altitud": 165 }, "geometry": { "type": "Point", "coordinates": [ -4.502831, 37.915830 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "N_Estacion": 4, "Estacion": "Hornachuelos", "N_Provincia": 14, "Provincia": "Córdoba", "Comunidad": "Andalucia", "Altitud": 157 }, "geometry": { "type": "Point", "coordinates": [ -5.159169, 37.721636 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "N_Estacion": 101, "Estacion": "IFAPA Centro de Cabra", "N_Provincia": 14, "Provincia": "Córdoba", "Comunidad": "Andalucia", "Altitud": 547 }, "geometry": { "type": "Point", "coordinates": [ -4.429671, 37.500070 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "N_Estacion": 102, "Estacion": "IFAPA Centro de Hinojosa del Duque", "N_Provincia": 14, "Provincia": "Córdoba", "Comunidad": "Andalucia", "Altitud": 543 }, "geometry": { "type": "Point", "coordinates": [ -5.114247, 38.498166 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "N_Estacion": 9, "Estacion": "Palma del Río", "N_Provincia": 14, "Provincia": "Córdoba", "Comunidad": "Andalucia", "Altitud": 55 }, "geometry": { "type": "Point", "coordinates": [ -5.226054, 37.727528 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "N_Estacion": 7, "Estacion": "Santaella", "N_Provincia": 14, "Provincia": "Córdoba", "Comunidad": "Andalucia", "Altitud": 207 }, "geometry": { "type": "Point", "coordinates": [ -4.884285, 37.524262 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "N_Estacion": 11, "Estacion": "Almuñecar", "N_Provincia": 18, "Provincia": "Granada", "Comunidad": "Andalucia", "Altitud": 14 }, "geometry": { "type": "Point", "coordinates": [ -3.683569, 36.741486 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "N_Estacion": 1, "Estacion": "Baza", "N_Provincia": 18, "Provincia": "Granada", "Comunidad": "Andalucia", "Altitud": 814 }, "geometry": { "type": "Point", "coordinates": [ -2.766419, 37.566205 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "N_Estacion": 7, "Estacion": "Cádiar", "N_Provincia": 18, "Provincia": "Granada", "Comunidad": "Andalucia", "Altitud": 950 }, "geometry": { "type": "Point", "coordinates": [ -3.182746, 36.924964 ] } }
+,
+{ "type": "Feature", "id": 43, "properties": { "N_Estacion": 101, "Estacion": "IFAPA Centro Camino del Purchil", "N_Provincia": 18, "Provincia": "Granada", "Comunidad": "Andalucia", "Altitud": 630 }, "geometry": { "type": "Point", "coordinates": [ -3.637319, 37.173926 ] } }
+,
+{ "type": "Feature", "id": 44, "properties": { "N_Estacion": 5, "Estacion": "Iznalloz", "N_Provincia": 18, "Provincia": "Granada", "Comunidad": "Andalucia", "Altitud": 935 }, "geometry": { "type": "Point", "coordinates": [ -3.550230, 37.418377 ] } }
+,
+{ "type": "Feature", "id": 45, "properties": { "N_Estacion": 6, "Estacion": "Jerez del Marquesado", "N_Provincia": 18, "Provincia": "Granada", "Comunidad": "Andalucia", "Altitud": 1212 }, "geometry": { "type": "Point", "coordinates": [ -3.148662, 37.192376 ] } }
+,
+{ "type": "Feature", "id": 46, "properties": { "N_Estacion": 3, "Estacion": "Loja", "N_Provincia": 18, "Provincia": "Granada", "Comunidad": "Andalucia", "Altitud": 487 }, "geometry": { "type": "Point", "coordinates": [ -4.137099, 37.171275 ] } }
+,
+{ "type": "Feature", "id": 47, "properties": { "N_Estacion": 10, "Estacion": "Padul", "N_Provincia": 18, "Provincia": "Granada", "Comunidad": "Andalucia", "Altitud": 781 }, "geometry": { "type": "Point", "coordinates": [ -3.599061, 37.020615 ] } }
+,
+{ "type": "Feature", "id": 48, "properties": { "N_Estacion": 4, "Estacion": "Pinos Puente", "N_Provincia": 18, "Provincia": "Granada", "Comunidad": "Andalucia", "Altitud": 594 }, "geometry": { "type": "Point", "coordinates": [ -3.772155, 37.263606 ] } }
+,
+{ "type": "Feature", "id": 49, "properties": { "N_Estacion": 2, "Estacion": "Puebla de Don Fabrique", "N_Provincia": 18, "Provincia": "Granada", "Comunidad": "Andalucia", "Altitud": 1110 }, "geometry": { "type": "Point", "coordinates": [ -2.380485, 37.877965 ] } }
+,
+{ "type": "Feature", "id": 50, "properties": { "N_Estacion": 8, "Estacion": "Zafarraya", "N_Provincia": 18, "Provincia": "Granada", "Comunidad": "Andalucia", "Altitud": 905 }, "geometry": { "type": "Point", "coordinates": [ -4.152742, 36.992100 ] } }
+,
+{ "type": "Feature", "id": 51, "properties": { "N_Estacion": 5, "Estacion": "Archidona", "N_Provincia": 29, "Provincia": "Málaga", "Comunidad": "Andalucia", "Altitud": 516 }, "geometry": { "type": "Point", "coordinates": [ -4.429234, 37.078742 ] } }
+,
+{ "type": "Feature", "id": 52, "properties": { "N_Estacion": 9, "Estacion": "Cártama", "N_Provincia": 29, "Provincia": "Málaga", "Comunidad": "Andalucia", "Altitud": 95 }, "geometry": { "type": "Point", "coordinates": [ -4.677137, 36.718759 ] } }
+,
+{ "type": "Feature", "id": 53, "properties": { "N_Estacion": 101, "Estacion": "IFAPA Centro de Campanillas", "N_Provincia": 29, "Provincia": "Málaga", "Comunidad": "Andalucia", "Altitud": 60 }, "geometry": { "type": "Point", "coordinates": [ -4.559584, 36.730958 ] } }
+,
+{ "type": "Feature", "id": 54, "properties": { "N_Estacion": 7, "Estacion": "IFAPA Churriana", "N_Provincia": 29, "Provincia": "Málaga", "Comunidad": "Andalucia", "Altitud": 32 }, "geometry": { "type": "Point", "coordinates": [ -4.501845, 36.675724 ] } }
+,
+{ "type": "Feature", "id": 55, "properties": { "N_Estacion": 1, "Estacion": "Málaga", "N_Provincia": 29, "Provincia": "Málaga", "Comunidad": "Andalucia", "Altitud": 68 }, "geometry": { "type": "Point", "coordinates": [ -4.536601, 36.758281 ] } }
+,
+{ "type": "Feature", "id": 56, "properties": { "N_Estacion": 8, "Estacion": "Pizarra", "N_Provincia": 29, "Provincia": "Málaga", "Comunidad": "Andalucia", "Altitud": 84 }, "geometry": { "type": "Point", "coordinates": [ -4.714138, 36.768447 ] } }
+,
+{ "type": "Feature", "id": 57, "properties": { "N_Estacion": 6, "Estacion": "Sierra Yeguas", "N_Provincia": 29, "Provincia": "Málaga", "Comunidad": "Andalucia", "Altitud": 464 }, "geometry": { "type": "Point", "coordinates": [ -4.834849, 37.140198 ] } }
+,
+{ "type": "Feature", "id": 58, "properties": { "N_Estacion": 2, "Estacion": "Vélez-Málaga", "N_Provincia": 29, "Provincia": "Málaga", "Comunidad": "Andalucia", "Altitud": 49 }, "geometry": { "type": "Point", "coordinates": [ -4.130582, 36.798060 ] } }
+,
+{ "type": "Feature", "id": 59, "properties": { "N_Estacion": 3, "Estacion": "Sádaba", "N_Provincia": 50, "Provincia": "Zaragoza", "Comunidad": "Aragón", "Altitud": 438 }, "geometry": { "type": "Point", "coordinates": [ -1.308026, 42.269246 ] } }
+,
+{ "type": "Feature", "id": 60, "properties": { "N_Estacion": 4, "Estacion": "El Bayo", "N_Provincia": 50, "Provincia": "Zaragoza", "Comunidad": "Aragón", "Altitud": 379 }, "geometry": { "type": "Point", "coordinates": [ -1.247501, 42.177512 ] } }
+,
+{ "type": "Feature", "id": 61, "properties": { "N_Estacion": 5, "Estacion": "Ejea de los Caballeros", "N_Provincia": 50, "Provincia": "Zaragoza", "Comunidad": "Aragón", "Altitud": 317 }, "geometry": { "type": "Point", "coordinates": [ -1.194746, 42.099594 ] } }
+,
+{ "type": "Feature", "id": 62, "properties": { "N_Estacion": 6, "Estacion": "Luna", "N_Provincia": 50, "Provincia": "Zaragoza", "Comunidad": "Aragón", "Altitud": 409 }, "geometry": { "type": "Point", "coordinates": [ -0.934666, 42.097692 ] } }
+,
+{ "type": "Feature", "id": 63, "properties": { "N_Estacion": 7, "Estacion": "Tauste", "N_Provincia": 50, "Provincia": "Zaragoza", "Comunidad": "Aragón", "Altitud": 361 }, "geometry": { "type": "Point", "coordinates": [ -1.141553, 42.002082 ] } }
+,
+{ "type": "Feature", "id": 64, "properties": { "N_Estacion": 8, "Estacion": "Santa Engracia", "N_Provincia": 50, "Provincia": "Zaragoza", "Comunidad": "Aragón", "Altitud": 253 }, "geometry": { "type": "Point", "coordinates": [ -1.329155, 41.923127 ] } }
+,
+{ "type": "Feature", "id": 65, "properties": { "N_Estacion": 1, "Estacion": "Santa Cilia de Jaca", "N_Provincia": 22, "Provincia": "Huesca", "Comunidad": "Aragón", "Altitud": 666 }, "geometry": { "type": "Point", "coordinates": [ -0.719130, 42.566432 ] } }
+,
+{ "type": "Feature", "id": 66, "properties": { "N_Estacion": 9, "Estacion": "Gurrea de Gállego", "N_Provincia": 22, "Provincia": "Huesca", "Comunidad": "Aragón", "Altitud": 363 }, "geometry": { "type": "Point", "coordinates": [ -0.729924, 41.994740 ] } }
+,
+{ "type": "Feature", "id": 67, "properties": { "N_Estacion": 10, "Estacion": " Huesca", "N_Provincia": 22, "Provincia": "Huesca", "Comunidad": "Aragón", "Altitud": 420 }, "geometry": { "type": "Point", "coordinates": [ -0.376383, 42.107335 ] } }
+,
+{ "type": "Feature", "id": 68, "properties": { "N_Estacion": 17, "Estacion": "Tardienta", "N_Provincia": 22, "Provincia": "Huesca", "Comunidad": "Aragón", "Altitud": 361 }, "geometry": { "type": "Point", "coordinates": [ -0.506230, 41.971256 ] } }
+,
+{ "type": "Feature", "id": 69, "properties": { "N_Estacion": 18, "Estacion": "Grañén", "N_Provincia": 22, "Provincia": "Huesca", "Comunidad": "Aragón", "Altitud": 312 }, "geometry": { "type": "Point", "coordinates": [ -0.354711, 41.944565 ] } }
+,
+{ "type": "Feature", "id": 70, "properties": { "N_Estacion": 19, "Estacion": "Huerto", "N_Provincia": 22, "Provincia": "Huesca", "Comunidad": "Aragón", "Altitud": 415 }, "geometry": { "type": "Point", "coordinates": [ -0.135960, 41.949804 ] } }
+,
+{ "type": "Feature", "id": 71, "properties": { "N_Estacion": 20, "Estacion": "Sodeto", "N_Provincia": 22, "Provincia": "Huesca", "Comunidad": "Aragón", "Altitud": 312 }, "geometry": { "type": "Point", "coordinates": [ -0.256011, 41.885835 ] } }
+,
+{ "type": "Feature", "id": 72, "properties": { "N_Estacion": 21, "Estacion": "Lanaja", "N_Provincia": 22, "Provincia": "Huesca", "Comunidad": "Aragón", "Altitud": 368 }, "geometry": { "type": "Point", "coordinates": [ -0.336603, 41.788246 ] } }
+,
+{ "type": "Feature", "id": 73, "properties": { "N_Estacion": 22, "Estacion": "Sariñena", "N_Provincia": 22, "Provincia": "Huesca", "Comunidad": "Aragón", "Altitud": 283 }, "geometry": { "type": "Point", "coordinates": [ -0.175342, 41.773242 ] } }
+,
+{ "type": "Feature", "id": 74, "properties": { "N_Estacion": 1, "Estacion": "TARAZONA", "N_Provincia": 2, "Provincia": "Albacete", "Comunidad": "Castilla La Mancha", "Altitud": 677 }, "geometry": { "type": "Point", "coordinates": [ -2.655801, 39.268081 ] } }
+,
+{ "type": "Feature", "id": 75, "properties": { "N_Estacion": 2, "Estacion": "JUANACO", "N_Provincia": 2, "Provincia": "Albacete", "Comunidad": "Castilla La Mancha", "Altitud": 698 }, "geometry": { "type": "Point", "coordinates": [ -1.106530, 38.905139 ] } }
+,
+{ "type": "Feature", "id": 76, "properties": { "N_Estacion": 3, "Estacion": "ALMANSA", "N_Provincia": 2, "Provincia": "Albacete", "Comunidad": "Castilla La Mancha", "Altitud": 579 }, "geometry": { "type": "Point", "coordinates": [ -1.712372, 38.487484 ] } }
+,
+{ "type": "Feature", "id": 77, "properties": { "N_Estacion": 4, "Estacion": "HELLÍN", "N_Provincia": 2, "Provincia": "Albacete", "Comunidad": "Castilla La Mancha", "Altitud": 677 }, "geometry": { "type": "Point", "coordinates": [ -1.900038, 38.951430 ] } }
+,
+{ "type": "Feature", "id": 78, "properties": { "N_Estacion": 5, "Estacion": "ALBACETE", "N_Provincia": 2, "Provincia": "Albacete", "Comunidad": "Castilla La Mancha", "Altitud": 682 }, "geometry": { "type": "Point", "coordinates": [ -1.495796, 38.624848 ] } }
+,
+{ "type": "Feature", "id": 79, "properties": { "N_Estacion": 6, "Estacion": "Ontur", "N_Provincia": 2, "Provincia": "Albacete", "Comunidad": "Castilla La Mancha", "Altitud": 872 }, "geometry": { "type": "Point", "coordinates": [ -1.752912, 38.801151 ] } }
+,
+{ "type": "Feature", "id": 80, "properties": { "N_Estacion": 7, "Estacion": "Pozo Cañada", "N_Provincia": 2, "Provincia": "Albacete", "Comunidad": "Castilla La Mancha", "Altitud": 722 }, "geometry": { "type": "Point", "coordinates": [ -2.013109, 39.101700 ] } }
+,
+{ "type": "Feature", "id": 81, "properties": { "N_Estacion": 8, "Estacion": "La Gineta", "N_Provincia": 2, "Provincia": "Albacete", "Comunidad": "Castilla La Mancha", "Altitud": 695 }, "geometry": { "type": "Point", "coordinates": [ -1.768494, 39.166863 ] } }
+,
+{ "type": "Feature", "id": 82, "properties": { "N_Estacion": 9, "Estacion": "Motilleja", "N_Provincia": 2, "Provincia": "Albacete", "Comunidad": "Castilla La Mancha", "Altitud": 531 }, "geometry": { "type": "Point", "coordinates": [ -0.977651, 38.736663 ] } }
+,
+{ "type": "Feature", "id": 83, "properties": { "N_Estacion": 1, "Estacion": "ALCÁZAR DE SAN JUAN", "N_Provincia": 13, "Provincia": "Ciudad Real", "Comunidad": "Castilla La Mancha", "Altitud": 690 }, "geometry": { "type": "Point", "coordinates": [ -3.355710, 39.098054 ] } }
+,
+{ "type": "Feature", "id": 84, "properties": { "N_Estacion": 2, "Estacion": "Manzanares", "N_Provincia": 13, "Provincia": "Ciudad Real", "Comunidad": "Castilla La Mancha", "Altitud": 615 }, "geometry": { "type": "Point", "coordinates": [ -4.228949, 39.235389 ] } }
+,
+{ "type": "Feature", "id": 85, "properties": { "N_Estacion": 3, "Estacion": "PORZUNA", "N_Provincia": 13, "Provincia": "Ciudad Real", "Comunidad": "Castilla La Mancha", "Altitud": 662 }, "geometry": { "type": "Point", "coordinates": [ -3.988457, 39.044026 ] } }
+,
+{ "type": "Feature", "id": 86, "properties": { "N_Estacion": 4, "Estacion": "CIUDAD REAL", "N_Provincia": 13, "Provincia": "Ciudad Real", "Comunidad": "Castilla La Mancha", "Altitud": 710 }, "geometry": { "type": "Point", "coordinates": [ -3.620163, 38.951344 ] } }
+,
+{ "type": "Feature", "id": 87, "properties": { "N_Estacion": 5, "Estacion": "Bolaños", "N_Provincia": 13, "Provincia": "Ciudad Real", "Comunidad": "Castilla La Mancha", "Altitud": 647 }, "geometry": { "type": "Point", "coordinates": [ -2.798426, 38.839741 ] } }
+,
+{ "type": "Feature", "id": 88, "properties": { "N_Estacion": 6, "Estacion": "Villahermosa-Tajoneras", "N_Provincia": 13, "Provincia": "Ciudad Real", "Comunidad": "Castilla La Mancha", "Altitud": 727 }, "geometry": { "type": "Point", "coordinates": [ -3.056442, 39.078037 ] } }
+,
+{ "type": "Feature", "id": 89, "properties": { "N_Estacion": 7, "Estacion": "Argamasilla de Alba", "N_Provincia": 13, "Provincia": "Ciudad Real", "Comunidad": "Castilla La Mancha", "Altitud": 659 }, "geometry": { "type": "Point", "coordinates": [ -3.329206, 39.381003 ] } }
+,
+{ "type": "Feature", "id": 90, "properties": { "N_Estacion": 8, "Estacion": "Herencia", "N_Provincia": 13, "Provincia": "Ciudad Real", "Comunidad": "Castilla La Mancha", "Altitud": 622 }, "geometry": { "type": "Point", "coordinates": [ -3.691699, 39.010389 ] } }
+,
+{ "type": "Feature", "id": 91, "properties": { "N_Estacion": 9, "Estacion": "Daimiel", "N_Provincia": 13, "Provincia": "Ciudad Real", "Comunidad": "Castilla La Mancha", "Altitud": 640 }, "geometry": { "type": "Point", "coordinates": [ -3.947088, 39.032727 ] } }
+,
+{ "type": "Feature", "id": 92, "properties": { "N_Estacion": 101, "Estacion": "Entresierra", "N_Provincia": 13, "Provincia": "Ciudad Real", "Comunidad": "Castilla La Mancha", "Altitud": 652 }, "geometry": { "type": "Point", "coordinates": [ -3.352362, 39.124791 ] } }
+,
+{ "type": "Feature", "id": 93, "properties": { "N_Estacion": 10, "Estacion": "MANZANARES", "N_Provincia": 13, "Provincia": "Ciudad Real", "Comunidad": "Castilla La Mancha", "Altitud": 887 }, "geometry": { "type": "Point", "coordinates": [ -2.880539, 38.698902 ] } }
+,
+{ "type": "Feature", "id": 94, "properties": { "N_Estacion": 11, "Estacion": "Montiel", "N_Provincia": 13, "Provincia": "Ciudad Real", "Comunidad": "Castilla La Mancha", "Altitud": 978 }, "geometry": { "type": "Point", "coordinates": [ -2.862145, 38.696349 ] } }
+,
+{ "type": "Feature", "id": 95, "properties": { "N_Estacion": 1, "Estacion": "EL SANCHÓN", "N_Provincia": 16, "Provincia": "Cuenca", "Comunidad": "Castilla La Mancha", "Altitud": 720 }, "geometry": { "type": "Point", "coordinates": [ -2.758400, 39.474992 ] } }
+,
+{ "type": "Feature", "id": 96, "properties": { "N_Estacion": 2, "Estacion": "PEDERNOSO", "N_Provincia": 16, "Provincia": "Cuenca", "Comunidad": "Castilla La Mancha", "Altitud": 728 }, "geometry": { "type": "Point", "coordinates": [ -2.090396, 39.456674 ] } }
+,
+{ "type": "Feature", "id": 97, "properties": { "N_Estacion": 3, "Estacion": "El Picazo", "N_Provincia": 16, "Provincia": "Cuenca", "Comunidad": "Castilla La Mancha", "Altitud": 707 }, "geometry": { "type": "Point", "coordinates": [ -2.935304, 40.116890 ] } }
+,
+{ "type": "Feature", "id": 98, "properties": { "N_Estacion": 4, "Estacion": "Barajas de Melo", "N_Provincia": 16, "Provincia": "Cuenca", "Comunidad": "Castilla La Mancha", "Altitud": 1053 }, "geometry": { "type": "Point", "coordinates": [ -1.648668, 40.030382 ] } }
+,
+{ "type": "Feature", "id": 99, "properties": { "N_Estacion": 7, "Estacion": "Villaconejos de Trabaque", "N_Provincia": 16, "Provincia": "Cuenca", "Comunidad": "Castilla La Mancha", "Altitud": 820 }, "geometry": { "type": "Point", "coordinates": [ -1.845650, 39.406541 ] } }
+,
+{ "type": "Feature", "id": 100, "properties": { "N_Estacion": 8, "Estacion": "Villnueva de la Jara", "N_Provincia": 16, "Provincia": "Cuenca", "Comunidad": "Castilla La Mancha", "Altitud": 940 }, "geometry": { "type": "Point", "coordinates": [ -2.140249, 40.154403 ] } }
+,
+{ "type": "Feature", "id": 101, "properties": { "N_Estacion": 2, "Estacion": "JADRAQUE", "N_Provincia": 19, "Provincia": "Guadalajara", "Comunidad": "Castilla La Mancha", "Altitud": 759 }, "geometry": { "type": "Point", "coordinates": [ -3.012622, 40.532335 ] } }
+,
+{ "type": "Feature", "id": 102, "properties": { "N_Estacion": 3, "Estacion": "Armuña de Tajuña", "N_Provincia": 19, "Provincia": "Guadalajara", "Comunidad": "Castilla La Mancha", "Altitud": 664 }, "geometry": { "type": "Point", "coordinates": [ -3.245955, 40.592623 ] } }
+,
+{ "type": "Feature", "id": 103, "properties": { "N_Estacion": 5, "Estacion": "Prados Redondos", "N_Provincia": 19, "Provincia": "Guadalajara", "Comunidad": "Castilla La Mancha", "Altitud": 589 }, "geometry": { "type": "Point", "coordinates": [ -2.985593, 40.211237 ] } }
+,
+{ "type": "Feature", "id": 104, "properties": { "N_Estacion": 6, "Estacion": "Illana", "N_Provincia": 19, "Provincia": "Guadalajara", "Comunidad": "Castilla La Mancha", "Altitud": 692 }, "geometry": { "type": "Point", "coordinates": [ -3.208571, 40.682649 ] } }
+,
+{ "type": "Feature", "id": 105, "properties": { "N_Estacion": 9, "Estacion": "Marchamalo", "N_Provincia": 19, "Provincia": "Guadalajara", "Comunidad": "Castilla La Mancha", "Altitud": 676 }, "geometry": { "type": "Point", "coordinates": [ -3.200966, 40.668204 ] } }
+,
+{ "type": "Feature", "id": 106, "properties": { "N_Estacion": 1, "Estacion": "VEGAS DE SAN ANTONIO", "N_Provincia": 45, "Provincia": "Toledo", "Comunidad": "Castilla La Mancha", "Altitud": 400 }, "geometry": { "type": "Point", "coordinates": [ -4.698114, 39.959926 ] } }
+,
+{ "type": "Feature", "id": 107, "properties": { "N_Estacion": 3, "Estacion": "CALERA Y CHOZAS", "N_Provincia": 45, "Provincia": "Toledo", "Comunidad": "Castilla La Mancha", "Altitud": 387 }, "geometry": { "type": "Point", "coordinates": [ -4.967680, 39.871879 ] } }
+,
+{ "type": "Feature", "id": 108, "properties": { "N_Estacion": 4, "Estacion": "Los Navalmorales", "N_Provincia": 45, "Provincia": "Toledo", "Comunidad": "Castilla La Mancha", "Altitud": 725 }, "geometry": { "type": "Point", "coordinates": [ -4.655134, 39.724763 ] } }
+,
+{ "type": "Feature", "id": 109, "properties": { "N_Estacion": 5, "Estacion": "Alcolea del Tajo", "N_Provincia": 45, "Provincia": "Toledo", "Comunidad": "Castilla La Mancha", "Altitud": 371 }, "geometry": { "type": "Point", "coordinates": [ -5.139499, 39.815980 ] } }
+,
+{ "type": "Feature", "id": 110, "properties": { "N_Estacion": 7, "Estacion": "Recas", "N_Provincia": 45, "Provincia": "Toledo", "Comunidad": "Castilla La Mancha", "Altitud": 609 }, "geometry": { "type": "Point", "coordinates": [ -3.976891, 40.058182 ] } }
+,
+{ "type": "Feature", "id": 111, "properties": { "N_Estacion": 8, "Estacion": "Villarrubia de Santiago", "N_Provincia": 45, "Provincia": "Toledo", "Comunidad": "Castilla La Mancha", "Altitud": 573 }, "geometry": { "type": "Point", "coordinates": [ -3.333005, 40.036811 ] } }
+,
+{ "type": "Feature", "id": 112, "properties": { "N_Estacion": 9, "Estacion": "La Rinconada", "N_Provincia": 45, "Provincia": "Toledo", "Comunidad": "Castilla La Mancha", "Altitud": 432 }, "geometry": { "type": "Point", "coordinates": [ -4.402550, 39.833909 ] } }
+,
+{ "type": "Feature", "id": 113, "properties": { "N_Estacion": 10, "Estacion": "La Puebla de Almoradiel", "N_Provincia": 45, "Provincia": "Toledo", "Comunidad": "Castilla La Mancha", "Altitud": 698 }, "geometry": { "type": "Point", "coordinates": [ -3.134747, 39.610909 ] } }
+,
+{ "type": "Feature", "id": 114, "properties": { "N_Estacion": 1, "Estacion": "Nava de Arévalo", "N_Provincia": 5, "Provincia": "Ávila", "Comunidad": "Castilla y León", "Altitud": 921 }, "geometry": { "type": "Point", "coordinates": [ -4.765372, 40.996794 ] } }
+,
+{ "type": "Feature", "id": 115, "properties": { "N_Estacion": 101, "Estacion": "Muñogalindo", "N_Provincia": 5, "Provincia": "Ávila", "Comunidad": "Castilla y León", "Altitud": 1128 }, "geometry": { "type": "Point", "coordinates": [ -4.904610, 40.597377 ] } }
+,
+{ "type": "Feature", "id": 116, "properties": { "N_Estacion": 102, "Estacion": "Losar del Barco", "N_Provincia": 5, "Provincia": "Ávila", "Comunidad": "Castilla y León", "Altitud": 1024 }, "geometry": { "type": "Point", "coordinates": [ -5.534760, 40.397146 ] } }
+,
+{ "type": "Feature", "id": 117, "properties": { "N_Estacion": 101, "Estacion": "Valle de Losa", "N_Provincia": 5, "Provincia": "Ávila", "Comunidad": "Castilla y León", "Altitud": 491 }, "geometry": { "type": "Point", "coordinates": [ -3.220326, 42.987759 ] } }
+,
+{ "type": "Feature", "id": 118, "properties": { "N_Estacion": 102, "Estacion": "Condado de Treviño", "N_Provincia": 5, "Provincia": "Ávila", "Comunidad": "Castilla y León", "Altitud": 562 }, "geometry": { "type": "Point", "coordinates": [ -2.690236, 42.719374 ] } }
+,
+{ "type": "Feature", "id": 119, "properties": { "N_Estacion": 1, "Estacion": "Carracedelo", "N_Provincia": 24, "Provincia": "León", "Comunidad": "Castilla y León", "Altitud": 463 }, "geometry": { "type": "Point", "coordinates": [ -6.733041, 42.550376 ] } }
+,
+{ "type": "Feature", "id": 120, "properties": { "N_Estacion": 2, "Estacion": "Mansilla Mayor", "N_Provincia": 24, "Provincia": "León", "Comunidad": "Castilla y León", "Altitud": 791 }, "geometry": { "type": "Point", "coordinates": [ -5.446345, 42.512210 ] } }
+,
+{ "type": "Feature", "id": 121, "properties": { "N_Estacion": 3, "Estacion": "Cubillas de los Oteros", "N_Provincia": 24, "Provincia": "León", "Comunidad": "Castilla y León", "Altitud": 772 }, "geometry": { "type": "Point", "coordinates": [ -5.510771, 42.378331 ] } }
+,
+{ "type": "Feature", "id": 122, "properties": { "N_Estacion": 4, "Estacion": "Zotes del Paramo", "N_Provincia": 24, "Provincia": "León", "Comunidad": "Castilla y León", "Altitud": 776 }, "geometry": { "type": "Point", "coordinates": [ -5.731151, 42.264399 ] } }
+,
+{ "type": "Feature", "id": 123, "properties": { "N_Estacion": 5, "Estacion": "Quintana del Marco", "N_Provincia": 24, "Provincia": "León", "Comunidad": "Castilla y León", "Altitud": 750 }, "geometry": { "type": "Point", "coordinates": [ -5.861753, 42.200742 ] } }
+,
+{ "type": "Feature", "id": 124, "properties": { "N_Estacion": 6, "Estacion": "Hospital de Orbigo", "N_Provincia": 24, "Provincia": "León", "Comunidad": "Castilla y León", "Altitud": 818 }, "geometry": { "type": "Point", "coordinates": [ -5.882636, 42.463176 ] } }
+,
+{ "type": "Feature", "id": 125, "properties": { "N_Estacion": 7, "Estacion": "Bustillo del Páramo", "N_Provincia": 24, "Provincia": "León", "Comunidad": "Castilla y León", "Altitud": 850 }, "geometry": { "type": "Point", "coordinates": [ -5.800274, 42.438600 ] } }
+,
+{ "type": "Feature", "id": 126, "properties": { "N_Estacion": 8, "Estacion": "Sahagún", "N_Provincia": 24, "Provincia": "León", "Comunidad": "Castilla y León", "Altitud": 839 }, "geometry": { "type": "Point", "coordinates": [ -5.006086, 42.369060 ] } }
+,
+{ "type": "Feature", "id": 127, "properties": { "N_Estacion": 9, "Estacion": "Santas Martas", "N_Provincia": 24, "Provincia": "León", "Comunidad": "Castilla y León", "Altitud": 879 }, "geometry": { "type": "Point", "coordinates": [ -5.345010, 42.453166 ] } }
+,
+{ "type": "Feature", "id": 128, "properties": { "N_Estacion": 1, "Estacion": "Torquemada", "N_Provincia": 34, "Provincia": "Palencia", "Comunidad": "Castilla y León", "Altitud": 741 }, "geometry": { "type": "Point", "coordinates": [ -4.299815, 42.039481 ] } }
+,
+{ "type": "Feature", "id": 129, "properties": { "N_Estacion": 2, "Estacion": "Villamuriel de Cerrato", "N_Provincia": 34, "Provincia": "Palencia", "Comunidad": "Castilla y León", "Altitud": 737 }, "geometry": { "type": "Point", "coordinates": [ -4.508324, 41.952108 ] } }
+,
+{ "type": "Feature", "id": 130, "properties": { "N_Estacion": 3, "Estacion": "Fuentes de Nava", "N_Provincia": 34, "Provincia": "Palencia", "Comunidad": "Castilla y León", "Altitud": 742 }, "geometry": { "type": "Point", "coordinates": [ -4.767468, 42.090186 ] } }
+,
+{ "type": "Feature", "id": 131, "properties": { "N_Estacion": 4, "Estacion": "Villoldo", "N_Provincia": 34, "Provincia": "Palencia", "Comunidad": "Castilla y León", "Altitud": 804 }, "geometry": { "type": "Point", "coordinates": [ -4.598263, 42.255605 ] } }
+,
+{ "type": "Feature", "id": 132, "properties": { "N_Estacion": 6, "Estacion": "Herrera de Pisuerga", "N_Provincia": 34, "Provincia": "Palencia", "Comunidad": "Castilla y León", "Altitud": 810 }, "geometry": { "type": "Point", "coordinates": [ -4.310838, 42.548499 ] } }
+,
+{ "type": "Feature", "id": 133, "properties": { "N_Estacion": 7, "Estacion": "Villaluenga de la Vega", "N_Provincia": 34, "Provincia": "Palencia", "Comunidad": "Castilla y León", "Altitud": 916 }, "geometry": { "type": "Point", "coordinates": [ -4.776367, 42.525459 ] } }
+,
+{ "type": "Feature", "id": 134, "properties": { "N_Estacion": 101, "Estacion": "Villaeles de Valdavia", "N_Provincia": 34, "Provincia": "Palencia", "Comunidad": "Castilla y León", "Altitud": 885 }, "geometry": { "type": "Point", "coordinates": [ -4.558251, 42.575813 ] } }
+,
+{ "type": "Feature", "id": 135, "properties": { "N_Estacion": 1, "Estacion": "Ciudad Rodrigo", "N_Provincia": 37, "Provincia": "Salamanca", "Comunidad": "Castilla y León", "Altitud": 635 }, "geometry": { "type": "Point", "coordinates": [ -6.492315, 40.618089 ] } }
+,
+{ "type": "Feature", "id": 136, "properties": { "N_Estacion": 3, "Estacion": "Aldearrubia", "N_Provincia": 37, "Provincia": "Salamanca", "Comunidad": "Castilla y León", "Altitud": 815 }, "geometry": { "type": "Point", "coordinates": [ -5.492814, 41.004050 ] } }
+,
+{ "type": "Feature", "id": 137, "properties": { "N_Estacion": 101, "Estacion": "Arabayona", "N_Provincia": 37, "Provincia": "Salamanca", "Comunidad": "Castilla y León", "Altitud": 847 }, "geometry": { "type": "Point", "coordinates": [ -5.393128, 41.047282 ] } }
+,
+{ "type": "Feature", "id": 138, "properties": { "N_Estacion": 102, "Estacion": "Ejeme", "N_Provincia": 37, "Provincia": "Salamanca", "Comunidad": "Castilla y León", "Altitud": 816 }, "geometry": { "type": "Point", "coordinates": [ -5.525296, 40.768770 ] } }
+,
+{ "type": "Feature", "id": 139, "properties": { "N_Estacion": 1, "Estacion": "Gomezserracín", "N_Provincia": 40, "Provincia": "Segovia", "Comunidad": "Castilla y León", "Altitud": 812 }, "geometry": { "type": "Point", "coordinates": [ -4.299160, 41.287158 ] } }
+,
+{ "type": "Feature", "id": 140, "properties": { "N_Estacion": 2, "Estacion": "Nava de la Asunción", "N_Provincia": 40, "Provincia": "Segovia", "Comunidad": "Castilla y León", "Altitud": 802 }, "geometry": { "type": "Point", "coordinates": [ -4.486383, 41.140601 ] } }
+,
+{ "type": "Feature", "id": 141, "properties": { "N_Estacion": 1, "Estacion": "Almazán", "N_Provincia": 40, "Provincia": "Segovia", "Comunidad": "Castilla y León", "Altitud": 947 }, "geometry": { "type": "Point", "coordinates": [ -2.555991, 41.482937 ] } }
+,
+{ "type": "Feature", "id": 142, "properties": { "N_Estacion": 2, "Estacion": "San Esteban de Gormaz", "N_Provincia": 40, "Provincia": "Segovia", "Comunidad": "Castilla y León", "Altitud": 852 }, "geometry": { "type": "Point", "coordinates": [ -3.220110, 41.535421 ] } }
+,
+{ "type": "Feature", "id": 143, "properties": { "N_Estacion": 1, "Estacion": "Mayorga", "N_Provincia": 47, "Provincia": "Valladolid", "Comunidad": "Castilla y León", "Altitud": 749 }, "geometry": { "type": "Point", "coordinates": [ -5.300402, 42.172009 ] } }
+,
+{ "type": "Feature", "id": 144, "properties": { "N_Estacion": 2, "Estacion": "Torrecilla de la Orden", "N_Provincia": 47, "Provincia": "Valladolid", "Comunidad": "Castilla y León", "Altitud": 774 }, "geometry": { "type": "Point", "coordinates": [ -5.267130, 41.219073 ] } }
+,
+{ "type": "Feature", "id": 145, "properties": { "N_Estacion": 3, "Estacion": "Olmedo", "N_Provincia": 47, "Provincia": "Valladolid", "Comunidad": "Castilla y León", "Altitud": 740 }, "geometry": { "type": "Point", "coordinates": [ -4.717249, 41.292362 ] } }
+,
+{ "type": "Feature", "id": 146, "properties": { "N_Estacion": 5, "Estacion": "Encinas de Esgueva", "N_Provincia": 47, "Provincia": "Valladolid", "Comunidad": "Castilla y León", "Altitud": 800 }, "geometry": { "type": "Point", "coordinates": [ -4.091026, 41.753974 ] } }
+,
+{ "type": "Feature", "id": 147, "properties": { "N_Estacion": 6, "Estacion": "Tordesillas", "N_Provincia": 47, "Provincia": "Valladolid", "Comunidad": "Castilla y León", "Altitud": 671 }, "geometry": { "type": "Point", "coordinates": [ -4.989019, 41.509457 ] } }
+,
+{ "type": "Feature", "id": 148, "properties": { "N_Estacion": 7, "Estacion": "Valbuena de Duero", "N_Provincia": 47, "Provincia": "Valladolid", "Comunidad": "Castilla y León", "Altitud": 740 }, "geometry": { "type": "Point", "coordinates": [ -4.283553, 41.662339 ] } }
+,
+{ "type": "Feature", "id": 149, "properties": { "N_Estacion": 8, "Estacion": "Medina de Rioseco", "N_Provincia": 47, "Provincia": "Valladolid", "Comunidad": "Castilla y León", "Altitud": 739 }, "geometry": { "type": "Point", "coordinates": [ -5.029762, 41.888908 ] } }
+,
+{ "type": "Feature", "id": 150, "properties": { "N_Estacion": 101, "Estacion": "Valladolid", "N_Provincia": 47, "Provincia": "Valladolid", "Comunidad": "Castilla y León", "Altitud": 714 }, "geometry": { "type": "Point", "coordinates": [ -4.740198, 41.625790 ] } }
+,
+{ "type": "Feature", "id": 151, "properties": { "N_Estacion": 102, "Estacion": "Medina del Campo", "N_Provincia": 47, "Provincia": "Valladolid", "Comunidad": "Castilla y León", "Altitud": 726 }, "geometry": { "type": "Point", "coordinates": [ -4.904346, 41.319655 ] } }
+,
+{ "type": "Feature", "id": 152, "properties": { "N_Estacion": 103, "Estacion": "Rueda", "N_Provincia": 47, "Provincia": "Valladolid", "Comunidad": "Castilla y León", "Altitud": 751 }, "geometry": { "type": "Point", "coordinates": [ -4.981439, 41.405802 ] } }
+,
+{ "type": "Feature", "id": 153, "properties": { "N_Estacion": 1, "Estacion": "Quiruelas de Vidriales", "N_Provincia": 49, "Provincia": "Zamora", "Comunidad": "Castilla y León", "Altitud": 707 }, "geometry": { "type": "Point", "coordinates": [ -5.821276, 42.014037 ] } }
+,
+{ "type": "Feature", "id": 154, "properties": { "N_Estacion": 2, "Estacion": "Villaralbo", "N_Provincia": 49, "Provincia": "Zamora", "Comunidad": "Castilla y León", "Altitud": 656 }, "geometry": { "type": "Point", "coordinates": [ -5.669805, 41.496589 ] } }
+,
+{ "type": "Feature", "id": 155, "properties": { "N_Estacion": 4, "Estacion": "Villalpando", "N_Provincia": 49, "Provincia": "Zamora", "Comunidad": "Castilla y León", "Altitud": 686 }, "geometry": { "type": "Point", "coordinates": [ -5.406411, 41.824973 ] } }
+,
+{ "type": "Feature", "id": 156, "properties": { "N_Estacion": 5, "Estacion": "Pozuelo de Tábara", "N_Provincia": 49, "Provincia": "Zamora", "Comunidad": "Castilla y León", "Altitud": 699 }, "geometry": { "type": "Point", "coordinates": [ -5.907354, 41.779877 ] } }
+,
+{ "type": "Feature", "id": 157, "properties": { "N_Estacion": 6, "Estacion": "Barcial del Barco", "N_Provincia": 49, "Provincia": "Zamora", "Comunidad": "Castilla y León", "Altitud": 695 }, "geometry": { "type": "Point", "coordinates": [ -5.644294, 41.935086 ] } }
+,
+{ "type": "Feature", "id": 158, "properties": { "N_Estacion": 104, "Estacion": "Arazuri", "N_Provincia": 31, "Provincia": "Navarra", "Comunidad": "Navarra", "Altitud": 396 }, "geometry": { "type": "Point", "coordinates": [ -1.722084, 42.811721 ] } }
+,
+{ "type": "Feature", "id": 159, "properties": { "N_Estacion": 8, "Estacion": "Adiós", "N_Provincia": 31, "Provincia": "Navarra", "Comunidad": "Navarra", "Altitud": 444 }, "geometry": { "type": "Point", "coordinates": [ -1.746015, 42.688352 ] } }
+,
+{ "type": "Feature", "id": 160, "properties": { "N_Estacion": 107, "Estacion": "Lumbier", "N_Provincia": 31, "Provincia": "Navarra", "Comunidad": "Navarra", "Altitud": 484 }, "geometry": { "type": "Point", "coordinates": [ -1.274367, 42.667187 ] } }
+,
+{ "type": "Feature", "id": 161, "properties": { "N_Estacion": 108, "Estacion": "Ancin", "N_Provincia": 31, "Provincia": "Navarra", "Comunidad": "Navarra", "Altitud": 469 }, "geometry": { "type": "Point", "coordinates": [ -2.170606, 42.657524 ] } }
+,
+{ "type": "Feature", "id": 162, "properties": { "N_Estacion": 9, "Estacion": "Artajona", "N_Provincia": 31, "Provincia": "Navarra", "Comunidad": "Navarra", "Altitud": 353 }, "geometry": { "type": "Point", "coordinates": [ -1.789491, 42.585410 ] } }
+,
+{ "type": "Feature", "id": 163, "properties": { "N_Estacion": 5, "Estacion": "Aibar", "N_Provincia": 31, "Provincia": "Navarra", "Comunidad": "Navarra", "Altitud": 421 }, "geometry": { "type": "Point", "coordinates": [ -1.315010, 42.560169 ] } }
+,
+{ "type": "Feature", "id": 164, "properties": { "N_Estacion": 6, "Estacion": "San Martin de Unix", "N_Provincia": 31, "Provincia": "Navarra", "Comunidad": "Navarra", "Altitud": 447 }, "geometry": { "type": "Point", "coordinates": [ -1.610511, 42.514792 ] } }
+,
+{ "type": "Feature", "id": 165, "properties": { "N_Estacion": 10, "Estacion": "Miranda de Arga", "N_Provincia": 31, "Provincia": "Navarra", "Comunidad": "Navarra", "Altitud": 343 }, "geometry": { "type": "Point", "coordinates": [ -1.807467, 42.513112 ] } }
+,
+{ "type": "Feature", "id": 166, "properties": { "N_Estacion": 111, "Estacion": "Lerin ", "N_Provincia": 31, "Provincia": "Navarra", "Comunidad": "Navarra", "Altitud": 354 }, "geometry": { "type": "Point", "coordinates": [ -1.974967, 42.505493 ] } }
+,
+{ "type": "Feature", "id": 167, "properties": { "N_Estacion": 10, "Estacion": "Bargota", "N_Provincia": 31, "Provincia": "Navarra", "Comunidad": "Navarra", "Altitud": 375 }, "geometry": { "type": "Point", "coordinates": [ -2.296624, 42.481351 ] } }
+,
+{ "type": "Feature", "id": 168, "properties": { "N_Estacion": 104, "Estacion": "Olite", "N_Provincia": 31, "Provincia": "Navarra", "Comunidad": "Navarra", "Altitud": 375 }, "geometry": { "type": "Point", "coordinates": [ -1.647266, 42.439458 ] } }
+,
+{ "type": "Feature", "id": 169, "properties": { "N_Estacion": 11, "Estacion": "Falces", "N_Provincia": 31, "Provincia": "Navarra", "Comunidad": "Navarra", "Altitud": 290 }, "geometry": { "type": "Point", "coordinates": [ -1.791106, 42.424666 ] } }
+,
+{ "type": "Feature", "id": 170, "properties": { "N_Estacion": 7, "Estacion": "Murillo del fruto", "N_Provincia": 31, "Provincia": "Navarra", "Comunidad": "Navarra", "Altitud": 393 }, "geometry": { "type": "Point", "coordinates": [ -1.486029, 42.386622 ] } }
+,
+{ "type": "Feature", "id": 171, "properties": { "N_Estacion": 105, "Estacion": "Traibuenas", "N_Provincia": 31, "Provincia": "Navarra", "Comunidad": "Navarra", "Altitud": 312 }, "geometry": { "type": "Point", "coordinates": [ -1.614011, 42.363358 ] } }
+,
+{ "type": "Feature", "id": 172, "properties": { "N_Estacion": 103, "Estacion": "Sartagudas", "N_Provincia": 31, "Provincia": "Navarra", "Comunidad": "Navarra", "Altitud": 307 }, "geometry": { "type": "Point", "coordinates": [ -2.049907, 42.363819 ] } }
+,
+{ "type": "Feature", "id": 173, "properties": { "N_Estacion": 14, "Estacion": "Bardenas Reales (El Plano)", "N_Provincia": 31, "Provincia": "Navarra", "Comunidad": "Navarra", "Altitud": 425 }, "geometry": { "type": "Point", "coordinates": [ -1.516280, 42.299301 ] } }
+,
+{ "type": "Feature", "id": 174, "properties": { "N_Estacion": 110, "Estacion": "Funes", "N_Provincia": 31, "Provincia": "Navarra", "Comunidad": "Navarra", "Altitud": 371 }, "geometry": { "type": "Point", "coordinates": [ -1.804278, 42.278854 ] } }
+,
+{ "type": "Feature", "id": 175, "properties": { "N_Estacion": 102, "Estacion": "Bardenas Reales (El Barranco)", "N_Provincia": 31, "Provincia": "Navarra", "Comunidad": "Navarra", "Altitud": 298 }, "geometry": { "type": "Point", "coordinates": [ -1.654336, 42.266178 ] } }
+,
+{ "type": "Feature", "id": 176, "properties": { "N_Estacion": 101, "Estacion": "Cadreita", "N_Provincia": 31, "Provincia": "Navarra", "Comunidad": "Navarra", "Altitud": 267 }, "geometry": { "type": "Point", "coordinates": [ -1.716968, 42.209654 ] } }
+,
+{ "type": "Feature", "id": 177, "properties": { "N_Estacion": 109, "Estacion": "Corella", "N_Provincia": 31, "Provincia": "Navarra", "Comunidad": "Navarra", "Altitud": 392 }, "geometry": { "type": "Point", "coordinates": [ -1.838503, 42.117473 ] } }
+,
+{ "type": "Feature", "id": 178, "properties": { "N_Estacion": 1, "Estacion": "Tudela", "N_Provincia": 31, "Provincia": "Navarra", "Comunidad": "Navarra", "Altitud": 258 }, "geometry": { "type": "Point", "coordinates": [ -1.567991, 42.069366 ] } }
+,
+{ "type": "Feature", "id": 179, "properties": { "N_Estacion": 2, "Estacion": "Fitero", "N_Provincia": 31, "Provincia": "Navarra", "Comunidad": "Navarra", "Altitud": 450 }, "geometry": { "type": "Point", "coordinates": [ -1.840087, 42.049779 ] } }
+,
+{ "type": "Feature", "id": 180, "properties": { "N_Estacion": 3, "Estacion": "Cascante", "N_Provincia": 31, "Provincia": "Navarra", "Comunidad": "Navarra", "Altitud": 330 }, "geometry": { "type": "Point", "coordinates": [ -1.721356, 42.038080 ] } }
+,
+{ "type": "Feature", "id": 181, "properties": { "N_Estacion": 4, "Estacion": "Ablitas", "N_Provincia": 31, "Provincia": "Navarra", "Comunidad": "Navarra", "Altitud": 338 }, "geometry": { "type": "Point", "coordinates": [ -1.642063, 42.000134 ] } }
+,
+{ "type": "Feature", "id": 182, "properties": { "N_Estacion": 15, "Estacion": "Los Arcos", "N_Provincia": 31, "Provincia": "Navarra", "Comunidad": "Navarra", "Altitud": 419 }, "geometry": { "type": "Point", "coordinates": [ -2.181914, 42.543054 ] } }
+,
+{ "type": "Feature", "id": 183, "properties": { "N_Estacion": 16, "Estacion": "Sesma", "N_Provincia": 31, "Provincia": "Navarra", "Comunidad": "Navarra", "Altitud": 438 }, "geometry": { "type": "Point", "coordinates": [ -2.123987, 42.477208 ] } }
+,
+{ "type": "Feature", "id": 184, "properties": { "N_Estacion": 2, "Estacion": "Banastón", "N_Provincia": 22, "Provincia": "Huesca", "Comunidad": "Aragón", "Altitud": 562 }, "geometry": { "type": "Point", "coordinates": [ 0.170423, 42.392234 ] } }
+,
+{ "type": "Feature", "id": 185, "properties": { "N_Estacion": 11, "Estacion": "Barbastro", "N_Provincia": 22, "Provincia": "Huesca", "Comunidad": "Aragón", "Altitud": 410 }, "geometry": { "type": "Point", "coordinates": [ 0.113771, 42.015051 ] } }
+,
+{ "type": "Feature", "id": 186, "properties": { "N_Estacion": 12, "Estacion": "Selgua", "N_Provincia": 22, "Provincia": "Huesca", "Comunidad": "Aragón", "Altitud": 304 }, "geometry": { "type": "Point", "coordinates": [ 0.127357, 41.941520 ] } }
+,
+{ "type": "Feature", "id": 187, "properties": { "N_Estacion": 13, "Estacion": "Alfántega", "N_Provincia": 22, "Provincia": "Huesca", "Comunidad": "Aragón", "Altitud": 246 }, "geometry": { "type": "Point", "coordinates": [ 0.148824, 41.823757 ] } }
+,
+{ "type": "Feature", "id": 188, "properties": { "N_Estacion": 14, "Estacion": "Alcolea de Cinca", "N_Provincia": 22, "Provincia": "Huesca", "Comunidad": "Aragón", "Altitud": 227 }, "geometry": { "type": "Point", "coordinates": [ 0.074214, 41.742828 ] } }
+,
+{ "type": "Feature", "id": 189, "properties": { "N_Estacion": 15, "Estacion": "San Esteban de Litera", "N_Provincia": 22, "Provincia": "Huesca", "Comunidad": "Aragón", "Altitud": 315 }, "geometry": { "type": "Point", "coordinates": [ 0.305203, 41.884758 ] } }
+,
+{ "type": "Feature", "id": 190, "properties": { "N_Estacion": 16, "Estacion": "Tamarite de Litera", "N_Provincia": 22, "Provincia": "Huesca", "Comunidad": "Aragón", "Altitud": 221 }, "geometry": { "type": "Point", "coordinates": [ 0.378184, 41.782809 ] } }
+,
+{ "type": "Feature", "id": 191, "properties": { "N_Estacion": 1, "Estacion": "Basurta-Jerez de la Frontera", "N_Provincia": 11, "Provincia": "Cádiz", "Comunidad": "Andalucia", "Altitud": 60 }, "geometry": { "type": "Point", "coordinates": [ -6.000000, 36.750000 ] } }
+,
+{ "type": "Feature", "id": 192, "properties": { "N_Estacion": 5, "Estacion": "Conil de la Frontera", "N_Provincia": 11, "Provincia": "Cádiz", "Comunidad": "Andalucia", "Altitud": 26 }, "geometry": { "type": "Point", "coordinates": [ -6.116667, 36.333333 ] } }
+,
+{ "type": "Feature", "id": 193, "properties": { "N_Estacion": 101, "Estacion": "IFAPA Centro de Chipiona", "N_Provincia": 11, "Provincia": "Cádiz", "Comunidad": "Andalucia", "Altitud": 7 }, "geometry": { "type": "Point", "coordinates": [ -6.383333, 36.750000 ] } }
+,
+{ "type": "Feature", "id": 194, "properties": { "N_Estacion": 2, "Estacion": "Jerez de la Frontera", "N_Provincia": 11, "Provincia": "Cádiz", "Comunidad": "Andalucia", "Altitud": 32 }, "geometry": { "type": "Point", "coordinates": [ -6.000000, 36.633333 ] } }
+,
+{ "type": "Feature", "id": 195, "properties": { "N_Estacion": 7, "Estacion": "Jimena de la Frontera", "N_Provincia": 11, "Provincia": "Cádiz", "Comunidad": "Andalucia", "Altitud": 53 }, "geometry": { "type": "Point", "coordinates": [ -5.383333, 36.400000 ] } }
+,
+{ "type": "Feature", "id": 196, "properties": { "N_Estacion": 8, "Estacion": "Puerto de Santa María", "N_Provincia": 11, "Provincia": "Cádiz", "Comunidad": "Andalucia", "Altitud": 20 }, "geometry": { "type": "Point", "coordinates": [ -6.150000, 36.616667 ] } }
+,
+{ "type": "Feature", "id": 197, "properties": { "N_Estacion": 9, "Estacion": "Sanlúcar de Barrameda", "N_Provincia": 11, "Provincia": "Cádiz", "Comunidad": "Andalucia", "Altitud": 22 }, "geometry": { "type": "Point", "coordinates": [ -6.283333, 36.833333 ] } }
+,
+{ "type": "Feature", "id": 198, "properties": { "N_Estacion": 6, "Estacion": "Vejer de Frontera", "N_Provincia": 11, "Provincia": "Cádiz", "Comunidad": "Andalucia", "Altitud": 24 }, "geometry": { "type": "Point", "coordinates": [ -5.833333, 36.283333 ] } }
+,
+{ "type": "Feature", "id": 199, "properties": { "N_Estacion": 4, "Estacion": "Villamartín", "N_Provincia": 11, "Provincia": "Cádiz", "Comunidad": "Andalucia", "Altitud": 171 }, "geometry": { "type": "Point", "coordinates": [ -5.616667, 36.833333 ] } }
+,
+{ "type": "Feature", "id": 200, "properties": { "N_Estacion": 5, "Estacion": "Aznalcázar ", "N_Provincia": 41, "Provincia": "Sevilla", "Comunidad": "Andalucia", "Altitud": 4 }, "geometry": { "type": "Point", "coordinates": [ -6.266667, 37.150000 ] } }
+,
+{ "type": "Feature", "id": 201, "properties": { "N_Estacion": 9, "Estacion": "Ecija", "N_Provincia": 41, "Provincia": "Sevilla", "Comunidad": "Andalucia", "Altitud": 125 }, "geometry": { "type": "Point", "coordinates": [ -5.066667, 37.583333 ] } }
+,
+{ "type": "Feature", "id": 202, "properties": { "N_Estacion": 17, "Estacion": "Guillena", "N_Provincia": 41, "Provincia": "Sevilla", "Comunidad": "Andalucia", "Altitud": 191 }, "geometry": { "type": "Point", "coordinates": [ -6.050000, 37.500000 ] } }
+,
+{ "type": "Feature", "id": 203, "properties": { "N_Estacion": 19, "Estacion": "IFAPA Centro Las Torres-Tomejil", "N_Provincia": 41, "Provincia": "Sevilla", "Comunidad": "Andalucia", "Altitud": 11 }, "geometry": { "type": "Point", "coordinates": [ -5.950000, 37.500000 ] } }
+,
+{ "type": "Feature", "id": 204, "properties": { "N_Estacion": 21, "Estacion": "IFAPA Centro de Los Palacios", "N_Provincia": 41, "Provincia": "Sevilla", "Comunidad": "Andalucia", "Altitud": 21 }, "geometry": { "type": "Point", "coordinates": [ -5.933333, 37.183333 ] } }
+,
+{ "type": "Feature", "id": 205, "properties": { "N_Estacion": 101, "Estacion": "IFAPA Centro Las Torres-Tomejil, Finca Tomejil", "N_Provincia": 41, "Provincia": "Sevilla", "Comunidad": "Andalucia", "Altitud": 79 }, "geometry": { "type": "Point", "coordinates": [ -5.583333, 37.400000 ] } }
+,
+{ "type": "Feature", "id": 206, "properties": { "N_Estacion": 20, "Estacion": "Isla Mayor", "N_Provincia": 41, "Provincia": "Sevilla", "Comunidad": "Andalucia", "Altitud": 35 }, "geometry": { "type": "Point", "coordinates": [ -6.116667, 37.100000 ] } }
+,
+{ "type": "Feature", "id": 207, "properties": { "N_Estacion": 10, "Estacion": "La Luisiana", "N_Provincia": 41, "Provincia": "Sevilla", "Comunidad": "Andalucia", "Altitud": 188 }, "geometry": { "type": "Point", "coordinates": [ -5.216667, 37.516667 ] } }
+,
+{ "type": "Feature", "id": 208, "properties": { "N_Estacion": 7, "Estacion": "La Puebla del Río", "N_Provincia": 41, "Provincia": "Sevilla", "Comunidad": "Andalucia", "Altitud": 25 }, "geometry": { "type": "Point", "coordinates": [ -6.116667, 37.216667 ] } }
+,
+{ "type": "Feature", "id": 209, "properties": { "N_Estacion": 8, "Estacion": "La Puebla del Río II", "N_Provincia": 41, "Provincia": "Sevilla", "Comunidad": "Andalucia", "Altitud": 41 }, "geometry": { "type": "Point", "coordinates": [ -6.033333, 37.066667 ] } }
+,
+{ "type": "Feature", "id": 210, "properties": { "N_Estacion": 12, "Estacion": "La Rinconada", "N_Provincia": 41, "Provincia": "Sevilla", "Comunidad": "Andalucia", "Altitud": 37 }, "geometry": { "type": "Point", "coordinates": [ -5.916667, 37.450000 ] } }
+,
+{ "type": "Feature", "id": 211, "properties": { "N_Estacion": 2, "Estacion": "Las Cabezas de San Juan", "N_Provincia": 41, "Provincia": "Sevilla", "Comunidad": "Andalucia", "Altitud": 25 }, "geometry": { "type": "Point", "coordinates": [ -5.883333, 37.016667 ] } }
+,
+{ "type": "Feature", "id": 212, "properties": { "N_Estacion": 3, "Estacion": "Lebrija I", "N_Provincia": 41, "Provincia": "Sevilla", "Comunidad": "Andalucia", "Altitud": 25 }, "geometry": { "type": "Point", "coordinates": [ -6.116667, 36.966667 ] } }
+,
+{ "type": "Feature", "id": 213, "properties": { "N_Estacion": 15, "Estacion": "Lora del Río", "N_Provincia": 41, "Provincia": "Sevilla", "Comunidad": "Andalucia", "Altitud": 68 }, "geometry": { "type": "Point", "coordinates": [ -5.533333, 37.650000 ] } }
+,
+{ "type": "Feature", "id": 214, "properties": { "N_Estacion": 16, "Estacion": "Los Morales", "N_Provincia": 41, "Provincia": "Sevilla", "Comunidad": "Andalucia", "Altitud": 90 }, "geometry": { "type": "Point", "coordinates": [ -5.666667, 37.166667 ] } }
+,
+{ "type": "Feature", "id": 215, "properties": { "N_Estacion": 11, "Estacion": "Osuna", "N_Provincia": 41, "Provincia": "Sevilla", "Comunidad": "Andalucia", "Altitud": 214 }, "geometry": { "type": "Point", "coordinates": [ -5.133333, 37.250000 ] } }
+,
+{ "type": "Feature", "id": 216, "properties": { "N_Estacion": 18, "Estacion": "Puebla Cazalla", "N_Provincia": 41, "Provincia": "Sevilla", "Comunidad": "Andalucia", "Altitud": 229 }, "geometry": { "type": "Point", "coordinates": [ -5.333333, 37.216667 ] } }
+,
+{ "type": "Feature", "id": 217, "properties": { "N_Estacion": 13, "Estacion": "Sanlúcar La Mayor", "N_Provincia": 41, "Provincia": "Sevilla", "Comunidad": "Andalucia", "Altitud": 88 }, "geometry": { "type": "Point", "coordinates": [ -6.250000, 37.416667 ] } }
+,
+{ "type": "Feature", "id": 218, "properties": { "N_Estacion": 10, "Estacion": "Almonte", "N_Provincia": 21, "Provincia": "Huelva", "Comunidad": "Andalucia", "Altitud": 18 }, "geometry": { "type": "Point", "coordinates": [ -6.466667, 37.150000 ] } }
+,
+{ "type": "Feature", "id": 219, "properties": { "N_Estacion": 6, "Estacion": "Aroche", "N_Provincia": 21, "Provincia": "Huelva", "Comunidad": "Andalucia", "Altitud": 299 }, "geometry": { "type": "Point", "coordinates": [ -6.933333, 37.950000 ] } }
+,
+{ "type": "Feature", "id": 220, "properties": { "N_Estacion": 8, "Estacion": "El Campillo", "N_Provincia": 21, "Provincia": "Huelva", "Comunidad": "Andalucia", "Altitud": 406 }, "geometry": { "type": "Point", "coordinates": [ -6.583333, 37.650000 ] } }
+,
+{ "type": "Feature", "id": 221, "properties": { "N_Estacion": 1, "Estacion": "El Tojalillo-Gibraleón", "N_Provincia": 21, "Provincia": "Huelva", "Comunidad": "Andalucia", "Altitud": 52 }, "geometry": { "type": "Point", "coordinates": [ -7.016667, 37.316667 ] } }
+,
+{ "type": "Feature", "id": 222, "properties": { "N_Estacion": 3, "Estacion": "Gibraleón", "N_Provincia": 21, "Provincia": "Huelva", "Comunidad": "Andalucia", "Altitud": 169 }, "geometry": { "type": "Point", "coordinates": [ -7.050000, 37.400000 ] } }
+,
+{ "type": "Feature", "id": 223, "properties": { "N_Estacion": 101, "Estacion": "IFAPA Centro Las Torres-Tomegil. Finca El Cebollar", "N_Provincia": 21, "Provincia": "Huelva", "Comunidad": "Andalucia", "Altitud": 63 }, "geometry": { "type": "Point", "coordinates": [ -6.800000, 37.233333 ] } }
+,
+{ "type": "Feature", "id": 224, "properties": { "N_Estacion": 102, "Estacion": "IFAPA El Cebollar Bajo plastico", "N_Provincia": 21, "Provincia": "Huelva", "Comunidad": "Andalucia", "Altitud": 63 }, "geometry": { "type": "Point", "coordinates": [ -6.783333, 37.233333 ] } }
+,
+{ "type": "Feature", "id": 225, "properties": { "N_Estacion": 9, "Estacion": "La Palma del Condado", "N_Provincia": 21, "Provincia": "Huelva", "Comunidad": "Andalucia", "Altitud": 192 }, "geometry": { "type": "Point", "coordinates": [ -6.533333, 37.366667 ] } }
+,
+{ "type": "Feature", "id": 226, "properties": { "N_Estacion": 7, "Estacion": "La Puebla de Guzmán", "N_Provincia": 21, "Provincia": "Huelva", "Comunidad": "Andalucia", "Altitud": 288 }, "geometry": { "type": "Point", "coordinates": [ -7.233333, 37.550000 ] } }
+,
+{ "type": "Feature", "id": 227, "properties": { "N_Estacion": 2, "Estacion": "Lepe", "N_Provincia": 21, "Provincia": "Huelva", "Comunidad": "Andalucia", "Altitud": 74 }, "geometry": { "type": "Point", "coordinates": [ -7.233333, 37.233333 ] } }
+,
+{ "type": "Feature", "id": 228, "properties": { "N_Estacion": 4, "Estacion": "Moguer", "N_Provincia": 21, "Provincia": "Huelva", "Comunidad": "Andalucia", "Altitud": 87 }, "geometry": { "type": "Point", "coordinates": [ -6.783333, 37.133333 ] } }
+,
+{ "type": "Feature", "id": 229, "properties": { "N_Estacion": 5, "Estacion": "Niebla", "N_Provincia": 21, "Provincia": "Huelva", "Comunidad": "Andalucia", "Altitud": 52 }, "geometry": { "type": "Point", "coordinates": [ -6.733333, 37.333333 ] } }
+,
+{ "type": "Feature", "id": 230, "properties": { "N_Estacion": 103, "Estacion": "Puebla de Alcocer", "N_Provincia": 6, "Provincia": "Badajoz", "Comunidad": "Extremadura", "Altitud": 500 }, "geometry": { "type": "Point", "coordinates": [ -5.250000, 38.983333 ] } }
+,
+{ "type": "Feature", "id": 231, "properties": { "N_Estacion": 210, "Estacion": "PALAZUELO", "N_Provincia": 6, "Provincia": "Badajoz", "Comunidad": "Extremadura", "Altitud": 290 }, "geometry": { "type": "Point", "coordinates": [ -5.733333, 39.100000 ] } }
+,
+{ "type": "Feature", "id": 232, "properties": { "N_Estacion": 105, "Estacion": "DON BENITO-EFA", "N_Provincia": 6, "Provincia": "Badajoz", "Comunidad": "Extremadura", "Altitud": 260 }, "geometry": { "type": "Point", "coordinates": [ -5.850000, 38.950000 ] } }
+,
+{ "type": "Feature", "id": 233, "properties": { "N_Estacion": 3, "Estacion": "Don Benito", "N_Provincia": 6, "Provincia": "Badajoz", "Comunidad": "Extremadura", "Altitud": 267 }, "geometry": { "type": "Point", "coordinates": [ -5.850000, 38.950000 ] } }
+,
+{ "type": "Feature", "id": 234, "properties": { "N_Estacion": 204, "Estacion": "RUEDA CHICA", "N_Provincia": 6, "Provincia": "Badajoz", "Comunidad": "Extremadura", "Altitud": 186 }, "geometry": { "type": "Point", "coordinates": [ -6.116667, 39.150000 ] } }
+,
+{ "type": "Feature", "id": 235, "properties": { "N_Estacion": 203, "Estacion": "Talavera La Real-Bercial", "N_Provincia": 6, "Provincia": "Badajoz", "Comunidad": "Extremadura", "Altitud": 200 }, "geometry": { "type": "Point", "coordinates": [ -5.933333, 38.583333 ] } }
+,
+{ "type": "Feature", "id": 236, "properties": { "N_Estacion": 205, "Estacion": "Guadajira-La Orden", "N_Provincia": 6, "Provincia": "Badajoz", "Comunidad": "Extremadura", "Altitud": 186 }, "geometry": { "type": "Point", "coordinates": [ -6.666667, 38.850000 ] } }
+,
+{ "type": "Feature", "id": 237, "properties": { "N_Estacion": 206, "Estacion": "Arroyo de San Serván", "N_Provincia": 6, "Provincia": "Badajoz", "Comunidad": "Extremadura", "Altitud": 220 }, "geometry": { "type": "Point", "coordinates": [ -6.450000, 38.850000 ] } }
+,
+{ "type": "Feature", "id": 238, "properties": { "N_Estacion": 101, "Estacion": "Mérida", "N_Provincia": 6, "Provincia": "Badajoz", "Comunidad": "Extremadura", "Altitud": 265 }, "geometry": { "type": "Point", "coordinates": [ -6.333333, 38.900000 ] } }
+,
+{ "type": "Feature", "id": 239, "properties": { "N_Estacion": 4, "Estacion": "Villagonzalo", "N_Provincia": 6, "Provincia": "Badajoz", "Comunidad": "Extremadura", "Altitud": 266 }, "geometry": { "type": "Point", "coordinates": [ -6.183333, 38.850000 ] } }
+,
+{ "type": "Feature", "id": 240, "properties": { "N_Estacion": 6, "Estacion": "Olivenza", "N_Provincia": 6, "Provincia": "Badajoz", "Comunidad": "Extremadura", "Altitud": 202 }, "geometry": { "type": "Point", "coordinates": [ -7.100000, 38.666667 ] } }
+,
+{ "type": "Feature", "id": 241, "properties": { "N_Estacion": 207, "Estacion": "Almendralejo-Don Rodrigo", "N_Provincia": 6, "Provincia": "Badajoz", "Comunidad": "Extremadura", "Altitud": 385 }, "geometry": { "type": "Point", "coordinates": [ -6.683333, 38.666667 ] } }
+,
+{ "type": "Feature", "id": 242, "properties": { "N_Estacion": 1, "Estacion": "Zalamea de la Serena", "N_Provincia": 6, "Provincia": "Badajoz", "Comunidad": "Extremadura", "Altitud": 459 }, "geometry": { "type": "Point", "coordinates": [ -5.650000, 38.633333 ] } }
+,
+{ "type": "Feature", "id": 243, "properties": { "N_Estacion": 2, "Estacion": "Monterrubio", "N_Provincia": 6, "Provincia": "Badajoz", "Comunidad": "Extremadura", "Altitud": 499 }, "geometry": { "type": "Point", "coordinates": [ -5.433333, 38.583333 ] } }
+,
+{ "type": "Feature", "id": 244, "properties": { "N_Estacion": 7, "Estacion": "Villafranca de los Barros", "N_Provincia": 6, "Provincia": "Badajoz", "Comunidad": "Extremadura", "Altitud": 406 }, "geometry": { "type": "Point", "coordinates": [ -6.333333, 39.550000 ] } }
+,
+{ "type": "Feature", "id": 245, "properties": { "N_Estacion": 5, "Estacion": "Jerez de los Caballeros", "N_Provincia": 6, "Provincia": "Badajoz", "Comunidad": "Extremadura", "Altitud": 261 }, "geometry": { "type": "Point", "coordinates": [ -6.766667, 38.316667 ] } }
+,
+{ "type": "Feature", "id": 246, "properties": { "N_Estacion": 104, "Estacion": "Fuente de Cantos", "N_Provincia": 6, "Provincia": "Badajoz", "Comunidad": "Extremadura", "Altitud": 600 }, "geometry": { "type": "Point", "coordinates": [ -6.300000, 38.233333 ] } }
+,
+{ "type": "Feature", "id": 247, "properties": { "N_Estacion": 102, "Estacion": "Azuaga", "N_Provincia": 6, "Provincia": "Badajoz", "Comunidad": "Extremadura", "Altitud": 540 }, "geometry": { "type": "Point", "coordinates": [ -5.666667, 38.250000 ] } }
+,
+{ "type": "Feature", "id": 248, "properties": { "N_Estacion": 101, "Estacion": "Hurdes-Azabal", "N_Provincia": 10, "Provincia": "Cáceres", "Comunidad": "Extremadura", "Altitud": 574 }, "geometry": { "type": "Point", "coordinates": [ -6.250000, 40.283333 ] } }
+,
+{ "type": "Feature", "id": 249, "properties": { "N_Estacion": 12, "Estacion": "Gargantilla", "N_Provincia": 10, "Provincia": "Cáceres", "Comunidad": "Extremadura", "Altitud": 596 }, "geometry": { "type": "Point", "coordinates": [ -5.916667, 40.233333 ] } }
+,
+{ "type": "Feature", "id": 250, "properties": { "N_Estacion": 3, "Estacion": "Zarza de Granadilla", "N_Provincia": 10, "Provincia": "Cáceres", "Comunidad": "Extremadura", "Altitud": 383 }, "geometry": { "type": "Point", "coordinates": [ -6.033333, 40.233333 ] } }
+,
+{ "type": "Feature", "id": 251, "properties": { "N_Estacion": 16, "Estacion": "Moraleja", "N_Provincia": 10, "Provincia": "Cáceres", "Comunidad": "Extremadura", "Altitud": 252 }, "geometry": { "type": "Point", "coordinates": [ -6.650000, 40.066667 ] } }
+,
+{ "type": "Feature", "id": 252, "properties": { "N_Estacion": 11, "Estacion": "Jarandilla de la Vera", "N_Provincia": 10, "Provincia": "Cáceres", "Comunidad": "Extremadura", "Altitud": 508 }, "geometry": { "type": "Point", "coordinates": [ -5.650000, 40.116667 ] } }
+,
+{ "type": "Feature", "id": 253, "properties": { "N_Estacion": 13, "Estacion": "Talayuela", "N_Provincia": 10, "Provincia": "Cáceres", "Comunidad": "Extremadura", "Altitud": 277 }, "geometry": { "type": "Point", "coordinates": [ -5.600000, 39.983333 ] } }
+,
+{ "type": "Feature", "id": 254, "properties": { "N_Estacion": 10, "Estacion": "Tejeda de Tietar", "N_Provincia": 10, "Provincia": "Cáceres", "Comunidad": "Extremadura", "Altitud": 235 }, "geometry": { "type": "Point", "coordinates": [ -5.866667, 40.016667 ] } }
+,
+{ "type": "Feature", "id": 255, "properties": { "N_Estacion": 4, "Estacion": "Aldehuela del Jerte", "N_Provincia": 10, "Provincia": "Cáceres", "Comunidad": "Extremadura", "Altitud": 262 }, "geometry": { "type": "Point", "coordinates": [ -6.233333, 40.000000 ] } }
+,
+{ "type": "Feature", "id": 256, "properties": { "N_Estacion": 9, "Estacion": "Peraleda de la Mata", "N_Provincia": 10, "Provincia": "Cáceres", "Comunidad": "Extremadura", "Altitud": 309 }, "geometry": { "type": "Point", "coordinates": [ -5.450000, 39.850000 ] } }
+,
+{ "type": "Feature", "id": 257, "properties": { "N_Estacion": 1, "Estacion": "Casatejada", "N_Provincia": 10, "Provincia": "Cáceres", "Comunidad": "Extremadura", "Altitud": 274 }, "geometry": { "type": "Point", "coordinates": [ -5.683333, 39.883333 ] } }
+,
+{ "type": "Feature", "id": 258, "properties": { "N_Estacion": 105, "Estacion": "Mirabel", "N_Provincia": 10, "Provincia": "Cáceres", "Comunidad": "Extremadura", "Altitud": 541 }, "geometry": { "type": "Point", "coordinates": [ -6.216667, 39.850000 ] } }
+,
+{ "type": "Feature", "id": 259, "properties": { "N_Estacion": 104, "Estacion": "ALCANTARA", "N_Provincia": 10, "Provincia": "Cáceres", "Comunidad": "Extremadura", "Altitud": 327 }, "geometry": { "type": "Point", "coordinates": [ -6.883333, 39.716667 ] } }
+,
+{ "type": "Feature", "id": 260, "properties": { "N_Estacion": 8, "Estacion": "Valdesalor", "N_Provincia": 10, "Provincia": "Cáceres", "Comunidad": "Extremadura", "Altitud": 382 }, "geometry": { "type": "Point", "coordinates": [ -6.333333, 39.366667 ] } }
+,
+{ "type": "Feature", "id": 261, "properties": { "N_Estacion": 102, "Estacion": "Madroñera", "N_Provincia": 10, "Provincia": "Cáceres", "Comunidad": "Extremadura", "Altitud": 625 }, "geometry": { "type": "Point", "coordinates": [ -5.750000, 39.416667 ] } }
+,
+{ "type": "Feature", "id": 262, "properties": { "N_Estacion": 103, "Estacion": "GUADALUPE", "N_Provincia": 10, "Provincia": "Cáceres", "Comunidad": "Extremadura", "Altitud": 740 }, "geometry": { "type": "Point", "coordinates": [ -5.316667, 39.450000 ] } }
+,
+{ "type": "Feature", "id": 263, "properties": { "N_Estacion": 7, "Estacion": "Madrigalejo", "N_Provincia": 10, "Provincia": "Cáceres", "Comunidad": "Extremadura", "Altitud": 297 }, "geometry": { "type": "Point", "coordinates": [ -5.616667, 39.133333 ] } }
+,
+{ "type": "Feature", "id": 264, "properties": { "N_Estacion": 10, "Estacion": "Almoradí", "N_Provincia": 3, "Provincia": "Alicante", "Comunidad": "Comunidad Valenciana", "Altitud": 7 }, "geometry": { "type": "Point", "coordinates": [ -0.783333, 38.100000 ] } }
+,
+{ "type": "Feature", "id": 265, "properties": { "N_Estacion": 15, "Estacion": "Altea", "N_Provincia": 3, "Provincia": "Alicante", "Comunidad": "Comunidad Valenciana", "Altitud": 83 }, "geometry": { "type": "Point", "coordinates": [ -0.033333, 38.600000 ] } }
+,
+{ "type": "Feature", "id": 266, "properties": { "N_Estacion": 102, "Estacion": "Callosa d`en Sarrià", "N_Provincia": 3, "Provincia": "Alicante", "Comunidad": "Comunidad Valenciana", "Altitud": 259 }, "geometry": { "type": "Point", "coordinates": [ -0.116667, 38.650000 ] } }
+,
+{ "type": "Feature", "id": 267, "properties": { "N_Estacion": 2, "Estacion": "Camp de Mirra", "N_Provincia": 3, "Provincia": "Alicante", "Comunidad": "Comunidad Valenciana", "Altitud": 601 }, "geometry": { "type": "Point", "coordinates": [ -0.766667, 38.683333 ] } }
+,
+{ "type": "Feature", "id": 268, "properties": { "N_Estacion": 16, "Estacion": "Castalla", "N_Provincia": 3, "Provincia": "Alicante", "Comunidad": "Comunidad Valenciana", "Altitud": 680 }, "geometry": { "type": "Point", "coordinates": [ -0.666667, 38.583333 ] } }
+,
+{ "type": "Feature", "id": 269, "properties": { "N_Estacion": 13, "Estacion": "Catral", "N_Provincia": 3, "Provincia": "Alicante", "Comunidad": "Comunidad Valenciana", "Altitud": 5 }, "geometry": { "type": "Point", "coordinates": [ -0.800000, 38.150000 ] } }
+,
+{ "type": "Feature", "id": 270, "properties": { "N_Estacion": 9, "Estacion": "Crevillente", "N_Provincia": 3, "Provincia": "Alicante", "Comunidad": "Comunidad Valenciana", "Altitud": 122 }, "geometry": { "type": "Point", "coordinates": [ -0.800000, 38.233333 ] } }
+,
+{ "type": "Feature", "id": 271, "properties": { "N_Estacion": 5, "Estacion": "Dénia Gata", "N_Provincia": 3, "Provincia": "Alicante", "Comunidad": "Comunidad Valenciana", "Altitud": 13 }, "geometry": { "type": "Point", "coordinates": [ 0.100000, 38.833333 ] } }
+,
+{ "type": "Feature", "id": 272, "properties": { "N_Estacion": 101, "Estacion": "Elx EEA", "N_Provincia": 3, "Provincia": "Alicante", "Comunidad": "Comunidad Valenciana", "Altitud": 88 }, "geometry": { "type": "Point", "coordinates": [ -0.683333, 38.266667 ] } }
+,
+{ "type": "Feature", "id": 273, "properties": { "N_Estacion": 8, "Estacion": "Monforte del Cid", "N_Provincia": 3, "Provincia": "Alicante", "Comunidad": "Comunidad Valenciana", "Altitud": 222 }, "geometry": { "type": "Point", "coordinates": [ -0.716667, 38.366667 ] } }
+,
+{ "type": "Feature", "id": 274, "properties": { "N_Estacion": 4, "Estacion": "Ondara", "N_Provincia": 3, "Provincia": "Alicante", "Comunidad": "Comunidad Valenciana", "Altitud": 36 }, "geometry": { "type": "Point", "coordinates": [ 0.000000, 38.816667 ] } }
+,
+{ "type": "Feature", "id": 275, "properties": { "N_Estacion": 11, "Estacion": "Orihuela la Murada", "N_Provincia": 3, "Provincia": "Alicante", "Comunidad": "Comunidad Valenciana", "Altitud": 85 }, "geometry": { "type": "Point", "coordinates": [ -0.950000, 38.166667 ] } }
+,
+{ "type": "Feature", "id": 276, "properties": { "N_Estacion": 12, "Estacion": "Pilar de la Horadada", "N_Provincia": 3, "Provincia": "Alicante", "Comunidad": "Comunidad Valenciana", "Altitud": 17 }, "geometry": { "type": "Point", "coordinates": [ -0.783333, 37.850000 ] } }
+,
+{ "type": "Feature", "id": 277, "properties": { "N_Estacion": 6, "Estacion": "Pinoso", "N_Provincia": 3, "Provincia": "Alicante", "Comunidad": "Comunidad Valenciana", "Altitud": 613 }, "geometry": { "type": "Point", "coordinates": [ -1.033333, 38.400000 ] } }
+,
+{ "type": "Feature", "id": 278, "properties": { "N_Estacion": 18, "Estacion": "Planes", "N_Provincia": 3, "Provincia": "Alicante", "Comunidad": "Comunidad Valenciana", "Altitud": 439 }, "geometry": { "type": "Point", "coordinates": [ -0.333333, 38.783333 ] } }
+,
+{ "type": "Feature", "id": 279, "properties": { "N_Estacion": 3, "Estacion": "Vila Joiosa", "N_Provincia": 3, "Provincia": "Alicante", "Comunidad": "Comunidad Valenciana", "Altitud": 32 }, "geometry": { "type": "Point", "coordinates": [ -0.216667, 38.500000 ] } }
+,
+{ "type": "Feature", "id": 280, "properties": { "N_Estacion": 19, "Estacion": "Villena", "N_Provincia": 3, "Provincia": "Alicante", "Comunidad": "Comunidad Valenciana", "Altitud": 573 }, "geometry": { "type": "Point", "coordinates": [ -0.850000, 38.633333 ] } }
+,
+{ "type": "Feature", "id": 281, "properties": { "N_Estacion": 4, "Estacion": "Benicarló", "N_Provincia": 12, "Provincia": "Castellón", "Comunidad": "Comunidad Valenciana", "Altitud": 15 }, "geometry": { "type": "Point", "coordinates": [ 0.416667, 40.416667 ] } }
+,
+{ "type": "Feature", "id": 282, "properties": { "N_Estacion": 6, "Estacion": "Burriana", "N_Provincia": 12, "Provincia": "Castellón", "Comunidad": "Comunidad Valenciana", "Altitud": 17 }, "geometry": { "type": "Point", "coordinates": [ -0.083333, 39.883333 ] } }
+,
+{ "type": "Feature", "id": 283, "properties": { "N_Estacion": 5, "Estacion": "Castelló Benadresa", "N_Provincia": 12, "Provincia": "Castellón", "Comunidad": "Comunidad Valenciana", "Altitud": 178 }, "geometry": { "type": "Point", "coordinates": [ -0.133333, 40.000000 ] } }
+,
+{ "type": "Feature", "id": 284, "properties": { "N_Estacion": 8, "Estacion": "Nules", "N_Provincia": 12, "Provincia": "Castellón", "Comunidad": "Comunidad Valenciana", "Altitud": 17 }, "geometry": { "type": "Point", "coordinates": [ -0.150000, 39.850000 ] } }
+,
+{ "type": "Feature", "id": 285, "properties": { "N_Estacion": 10, "Estacion": "Onda", "N_Provincia": 12, "Provincia": "Castellón", "Comunidad": "Comunidad Valenciana", "Altitud": 192 }, "geometry": { "type": "Point", "coordinates": [ -0.250000, 39.950000 ] } }
+,
+{ "type": "Feature", "id": 286, "properties": { "N_Estacion": 7, "Estacion": "Ribera de Cabanes", "N_Provincia": 12, "Provincia": "Castellón", "Comunidad": "Comunidad Valenciana", "Altitud": 8 }, "geometry": { "type": "Point", "coordinates": [ 0.133333, 40.133333 ] } }
+,
+{ "type": "Feature", "id": 287, "properties": { "N_Estacion": 3, "Estacion": "San Rafael del Río", "N_Provincia": 12, "Provincia": "Castellón", "Comunidad": "Comunidad Valenciana", "Altitud": 246 }, "geometry": { "type": "Point", "coordinates": [ 0.333333, 40.600000 ] } }
+,
+{ "type": "Feature", "id": 288, "properties": { "N_Estacion": 9, "Estacion": "Segorbe", "N_Provincia": 12, "Provincia": "Castellón", "Comunidad": "Comunidad Valenciana", "Altitud": 340 }, "geometry": { "type": "Point", "coordinates": [ -0.483333, 39.850000 ] } }
+,
+{ "type": "Feature", "id": 289, "properties": { "N_Estacion": 1, "Estacion": "Vall d`Uixó", "N_Provincia": 12, "Provincia": "Castellón", "Comunidad": "Comunidad Valenciana", "Altitud": 120 }, "geometry": { "type": "Point", "coordinates": [ -0.216667, 39.816667 ] } }
+,
+{ "type": "Feature", "id": 290, "properties": { "N_Estacion": 101, "Estacion": "Vila-real EEA", "N_Provincia": 12, "Provincia": "Castellón", "Comunidad": "Comunidad Valenciana", "Altitud": 44 }, "geometry": { "type": "Point", "coordinates": [ -0.100000, 39.933333 ] } }
+,
+{ "type": "Feature", "id": 291, "properties": { "N_Estacion": 14, "Estacion": "Algemesí", "N_Provincia": 46, "Provincia": "Valencia", "Comunidad": "Comunidad Valenciana", "Altitud": 24 }, "geometry": { "type": "Point", "coordinates": [ -0.433333, 39.183333 ] } }
+,
+{ "type": "Feature", "id": 292, "properties": { "N_Estacion": 10, "Estacion": "Benavites", "N_Provincia": 46, "Provincia": "Valencia", "Comunidad": "Comunidad Valenciana", "Altitud": 36 }, "geometry": { "type": "Point", "coordinates": [ -0.250000, 39.733333 ] } }
+,
+{ "type": "Feature", "id": 293, "properties": { "N_Estacion": 4, "Estacion": "Benifaió", "N_Provincia": 46, "Provincia": "Valencia", "Comunidad": "Comunidad Valenciana", "Altitud": 19 }, "geometry": { "type": "Point", "coordinates": [ -0.416667, 39.283333 ] } }
+,
+{ "type": "Feature", "id": 294, "properties": { "N_Estacion": 25, "Estacion": "Bolbaite", "N_Provincia": 46, "Provincia": "Valencia", "Comunidad": "Comunidad Valenciana", "Altitud": 270 }, "geometry": { "type": "Point", "coordinates": [ -0.666667, 39.050000 ] } }
+,
+{ "type": "Feature", "id": 295, "properties": { "N_Estacion": 21, "Estacion": "Campo Arcís", "N_Provincia": 46, "Provincia": "Valencia", "Comunidad": "Comunidad Valenciana", "Altitud": 587 }, "geometry": { "type": "Point", "coordinates": [ -1.166667, 39.416667 ] } }
+,
+{ "type": "Feature", "id": 296, "properties": { "N_Estacion": 10, "Estacion": "Carcaixent EEA", "N_Provincia": 46, "Provincia": "Valencia", "Comunidad": "Comunidad Valenciana", "Altitud": 25 }, "geometry": { "type": "Point", "coordinates": [ -0.433333, 39.116667 ] } }
+,
+{ "type": "Feature", "id": 297, "properties": { "N_Estacion": 1020, "Estacion": "Carcaixent EEA Invernadero", "N_Provincia": 46, "Provincia": "Valencia", "Comunidad": "Comunidad Valenciana", "Altitud": 25 }, "geometry": { "type": "Point", "coordinates": [ -0.433333, 39.116667 ] } }
+,
+{ "type": "Feature", "id": 298, "properties": { "N_Estacion": 103, "Estacion": "Carlet CE Coop", "N_Provincia": 46, "Provincia": "Valencia", "Comunidad": "Comunidad Valenciana", "Altitud": 51 }, "geometry": { "type": "Point", "coordinates": [ -0.516667, 39.216667 ] } }
+,
+{ "type": "Feature", "id": 299, "properties": { "N_Estacion": 1030, "Estacion": "Carlet malla", "N_Provincia": 46, "Provincia": "Valencia", "Comunidad": "Comunidad Valenciana", "Altitud": 51 }, "geometry": { "type": "Point", "coordinates": [ -0.516667, 39.216667 ] } }
+,
+{ "type": "Feature", "id": 300, "properties": { "N_Estacion": 5, "Estacion": "Cheste", "N_Provincia": 46, "Provincia": "Valencia", "Comunidad": "Comunidad Valenciana", "Altitud": 225 }, "geometry": { "type": "Point", "coordinates": [ -0.683333, 39.483333 ] } }
+,
+{ "type": "Feature", "id": 301, "properties": { "N_Estacion": 27, "Estacion": "Chulilla", "N_Provincia": 46, "Provincia": "Valencia", "Comunidad": "Comunidad Valenciana", "Altitud": 523 }, "geometry": { "type": "Point", "coordinates": [ -0.883333, 39.650000 ] } }
+,
+{ "type": "Feature", "id": 302, "properties": { "N_Estacion": 23, "Estacion": "Gandia Marxuquera", "N_Provincia": 46, "Provincia": "Valencia", "Comunidad": "Comunidad Valenciana", "Altitud": 102 }, "geometry": { "type": "Point", "coordinates": [ -0.233333, 38.966667 ] } }
+,
+{ "type": "Feature", "id": 303, "properties": { "N_Estacion": 2, "Estacion": "Llíria", "N_Provincia": 46, "Provincia": "Valencia", "Comunidad": "Comunidad Valenciana", "Altitud": 178 }, "geometry": { "type": "Point", "coordinates": [ -0.583333, 39.616667 ] } }
+,
+{ "type": "Feature", "id": 304, "properties": { "N_Estacion": 104, "Estacion": "Llutxent EEA", "N_Provincia": 46, "Provincia": "Valencia", "Comunidad": "Comunidad Valenciana", "Altitud": 297 }, "geometry": { "type": "Point", "coordinates": [ -0.350000, 38.933333 ] } }
+,
+{ "type": "Feature", "id": 305, "properties": { "N_Estacion": 107, "Estacion": "Manises", "N_Provincia": 46, "Provincia": "Valencia", "Comunidad": "Comunidad Valenciana", "Altitud": 108 }, "geometry": { "type": "Point", "coordinates": [ -0.450000, 39.483333 ] } }
+,
+{ "type": "Feature", "id": 306, "properties": { "N_Estacion": 101, "Estacion": "Moncada IVIA", "N_Provincia": 46, "Provincia": "Valencia", "Comunidad": "Comunidad Valenciana", "Altitud": 34 }, "geometry": { "type": "Point", "coordinates": [ -0.383333, 39.533333 ] } }
+,
+{ "type": "Feature", "id": 307, "properties": { "N_Estacion": 1010, "Estacion": "Moncada malla", "N_Provincia": 46, "Provincia": "Valencia", "Comunidad": "Comunidad Valenciana", "Altitud": 34 }, "geometry": { "type": "Point", "coordinates": [ -0.383333, 39.533333 ] } }
+,
+{ "type": "Feature", "id": 308, "properties": { "N_Estacion": 18, "Estacion": "Montesa", "N_Provincia": 46, "Provincia": "Valencia", "Comunidad": "Comunidad Valenciana", "Altitud": 255 }, "geometry": { "type": "Point", "coordinates": [ -0.650000, 38.933333 ] } }
+,
+{ "type": "Feature", "id": 309, "properties": { "N_Estacion": 1, "Estacion": "Pedralba", "N_Provincia": 46, "Provincia": "Valencia", "Comunidad": "Comunidad Valenciana", "Altitud": 201 }, "geometry": { "type": "Point", "coordinates": [ -0.716667, 39.600000 ] } }
+,
+{ "type": "Feature", "id": 310, "properties": { "N_Estacion": 17, "Estacion": "Picassent", "N_Provincia": 46, "Provincia": "Valencia", "Comunidad": "Comunidad Valenciana", "Altitud": 47 }, "geometry": { "type": "Point", "coordinates": [ -0.450000, 39.350000 ] } }
+,
+{ "type": "Feature", "id": 311, "properties": { "N_Estacion": 24, "Estacion": "Polinyá de Xúquer", "N_Provincia": 46, "Provincia": "Valencia", "Comunidad": "Comunidad Valenciana", "Altitud": 11 }, "geometry": { "type": "Point", "coordinates": [ -0.366667, 39.183333 ] } }
+,
+{ "type": "Feature", "id": 312, "properties": { "N_Estacion": 106, "Estacion": "Requena Cerrito", "N_Provincia": 46, "Provincia": "Valencia", "Comunidad": "Comunidad Valenciana", "Altitud": 648 }, "geometry": { "type": "Point", "coordinates": [ -1.100000, 39.483333 ] } }
+,
+{ "type": "Feature", "id": 313, "properties": { "N_Estacion": 20, "Estacion": "Sagunt", "N_Provincia": 46, "Provincia": "Valencia", "Comunidad": "Comunidad Valenciana", "Altitud": 51 }, "geometry": { "type": "Point", "coordinates": [ -0.266667, 39.666667 ] } }
+,
+{ "type": "Feature", "id": 314, "properties": { "N_Estacion": 6, "Estacion": "Tavernes de Valldigna", "N_Provincia": 46, "Provincia": "Valencia", "Comunidad": "Comunidad Valenciana", "Altitud": 51 }, "geometry": { "type": "Point", "coordinates": [ -0.266667, 39.066667 ] } }
+,
+{ "type": "Feature", "id": 315, "properties": { "N_Estacion": 3, "Estacion": "Turís", "N_Provincia": 46, "Provincia": "Valencia", "Comunidad": "Comunidad Valenciana", "Altitud": 277 }, "geometry": { "type": "Point", "coordinates": [ -0.700000, 39.383333 ] } }
+,
+{ "type": "Feature", "id": 316, "properties": { "N_Estacion": 22, "Estacion": "Villalonga", "N_Provincia": 46, "Provincia": "Valencia", "Comunidad": "Comunidad Valenciana", "Altitud": 132 }, "geometry": { "type": "Point", "coordinates": [ -0.200000, 38.883333 ] } }
+,
+{ "type": "Feature", "id": 317, "properties": { "N_Estacion": 7, "Estacion": "Villanueva de Castellón", "N_Provincia": 46, "Provincia": "Valencia", "Comunidad": "Comunidad Valenciana", "Altitud": 34 }, "geometry": { "type": "Point", "coordinates": [ -0.500000, 39.066667 ] } }
+,
+{ "type": "Feature", "id": 318, "properties": { "N_Estacion": 3, "Estacion": "Aranjuez", "N_Provincia": 28, "Provincia": "Madrid", "Comunidad": "Comunidad de Madrid", "Altitud": 551 }, "geometry": { "type": "Point", "coordinates": [ -3.600000, 40.016667 ] } }
+,
+{ "type": "Feature", "id": 319, "properties": { "N_Estacion": 2, "Estacion": "Arganda", "N_Provincia": 28, "Provincia": "Madrid", "Comunidad": "Comunidad de Madrid", "Altitud": 648 }, "geometry": { "type": "Point", "coordinates": [ -3.433333, 40.300000 ] } }
+,
+{ "type": "Feature", "id": 320, "properties": { "N_Estacion": 6, "Estacion": "Chinchón", "N_Provincia": 28, "Provincia": "Madrid", "Comunidad": "Comunidad de Madrid", "Altitud": 749 }, "geometry": { "type": "Point", "coordinates": [ -3.400000, 40.133333 ] } }
+,
+{ "type": "Feature", "id": 321, "properties": { "N_Estacion": 4, "Estacion": "Fuentidueña de Tajo", "N_Provincia": 28, "Provincia": "Madrid", "Comunidad": "Comunidad de Madrid", "Altitud": 559 }, "geometry": { "type": "Point", "coordinates": [ -3.150000, 40.116667 ] } }
+,
+{ "type": "Feature", "id": 322, "properties": { "N_Estacion": 5, "Estacion": "San Martín de la Vega", "N_Provincia": 28, "Provincia": "Madrid", "Comunidad": "Comunidad de Madrid", "Altitud": 515 }, "geometry": { "type": "Point", "coordinates": [ -3.566667, 40.200000 ] } }
+,
+{ "type": "Feature", "id": 323, "properties": { "N_Estacion": 102, "Estacion": "Villa del Prado", "N_Provincia": 28, "Provincia": "Madrid", "Comunidad": "Comunidad de Madrid", "Altitud": 513 }, "geometry": { "type": "Point", "coordinates": [ -4.300000, 40.266667 ] } }
+
+]
+}
