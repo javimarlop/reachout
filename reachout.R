@@ -22,7 +22,9 @@ twListToDF(searchTwitter('gorillas',geocode='45.76,8.5565,10000km',n=2000))->kk;
 library(sp)
 library(rgdal)
 
-kk[!is.na(kk2)[,1],]->kk2
+!is.na(kk[,15])->ind
+
+kk2<-kk[ind,]
 
 kk215<-as.numeric(kk2[,15])
 kk216<-as.numeric(kk2[,16])
@@ -30,4 +32,8 @@ kk216<-as.numeric(kk2[,16])
 kk3<-as.data.frame(cbind(kk215,kk216))
 
 kkSP <- SpatialPointsDataFrame(kk3, kk2[,-c(15,16)])
+
+invisible(system('rm kk.geojson'))
 writeOGR(kkSP, 'kk.geojson', 'kkSP', driver='GeoJSON')
+
+
