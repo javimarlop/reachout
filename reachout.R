@@ -15,7 +15,7 @@ library(maps)
 
             registerTwitterOAuth(twitCred)
 
-twListToDF(searchTwitter('gorillas',geocode='45.76,8.5565,10000km',n=2000))->kk;plot(kk[,15],kk[,16],col=3,cex=2,pch=8);points(y=45.76,x=8.5565,col=2,pch=4,cex=1);map('italy',add=T)
+twListToDF(searchTwitter('javi',geocode='45.76,8.5565,100km',n=2000))->kk;plot(kk[,15],kk[,16],col=3,cex=2,pch=8);points(y=45.76,x=8.5565,col=2,pch=4,cex=1);map('italy',add=T)
 
 #
 
