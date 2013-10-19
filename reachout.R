@@ -15,7 +15,7 @@ library(maps)
 
             registerTwitterOAuth(twitCred)
 
-twListToDF(searchTwitter('javi',geocode='45.76,8.5565,100km',n=2000))->kk;plot(kk[,15],kk[,16],col=3,cex=2,pch=8);points(y=45.76,x=8.5565,col=2,pch=4,cex=1);map('italy',add=T)
+twListToDF(searchTwitter('virunga',geocode='45.76,8.5565,10000km',n=20000))->kk;plot(kk[,15],kk[,16],col=3,cex=2,pch=8);points(y=45.76,x=8.5565,col=2,pch=4,cex=1);map('italy',add=T)
 
 #
 
@@ -28,12 +28,16 @@ kk2<-kk[ind,]
 
 kk215<-as.numeric(kk2[,15])
 kk216<-as.numeric(kk2[,16])
+kk21<-kk2[,1]
+kk25<-kk2[,5]
+kk211<-kk2[,11]
 
-kk3<-as.data.frame(cbind(kk215,kk216))
-
+kk3<-as.data.frame(cbind(kk215,kk216,kk21,kk25,kk211))
+names(kk3)<-c('lon','lat','text','created','user')
 kkSP <- SpatialPointsDataFrame(kk3, kk2[,-c(15,16)])
 
 invisible(system('rm kk.geojson'))
 writeOGR(kkSP, 'kk.geojson', 'kkSP', driver='GeoJSON')
 
+write.table(kk3,'data.csv',sep='|',row.names=F)
 
