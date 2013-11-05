@@ -15,14 +15,15 @@ library(maps)
 
             registerTwitterOAuth(twitCred)
 
-twListToDF(searchTwitter('virunga',geocode='45.76,8.5565,10000km',n=20000))->kk;plot(kk[,15],kk[,16],col=3,cex=2,pch=8);points(y=45.76,x=8.5565,col=2,pch=4,cex=1);map('italy',add=T)
+twListToDF(searchTwitter('virunga',geocode='29,-1.3,100km',n=200))->kk;plot(kk[,15],kk[,16],col=3,cex=2,pch=8);points(y=45.76,x=8.5565,col=2,pch=4,cex=1);map('italy',add=T)
 
 #
 
 library(sp)
 library(rgdal)
 
-!is.na(kk[,15])->ind
+twListToDF(searchTwitter('virunga',geocode='38,-1,1000km',n=200))->kk;!is.na(kk[,15])->ind;table(ind)
+
 
 kk2<-kk[ind,]
 
